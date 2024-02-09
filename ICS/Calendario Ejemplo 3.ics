@@ -1,0 +1,2797 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20120731T080000Z
+X-CALEND:20140226T100000Z
+X-WR-RELCALID:{00000018-1566-000A-76ED-CC5CCE7146DF}
+X-WR-CALNAME:CAMERUN (Solo este PC)
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:MBAH COMMERCIAL ENTERPRISES\n\n                                
+	                                                                          
+	                                                                          
+	   \nMR SIMON MBUN MBAH\n\nPO BOX 18082\, NEW BELL \nDOUALA \nmbacoie@yaho
+	o.fr <mailto:mbacoie@yahoo.fr>               \nFAX#237 3433206\n\n+237  34
+	33206\n\n31/07 Email presentación\n\n
+DTEND;TZID="Romance Standard Time":20120731T103000
+DTSTAMP:20221214T090729Z
+DTSTART;TZID="Romance Standard Time":20120731T100000
+LAST-MODIFIED:20201030T084650Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:MBAH COMMERCIAL ENTERPRISES_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000375E97A1AED601000000000000000
+	01000000089BC03506861304394A0AEEA099D810C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">MBAH COMMERCIAL ENTERPRISES</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT
+	><SPAN LANG="es"><FONT FACE="Arial">                    
+	                                       
+	                                       
+	                                       
+	                                       
+	       <BR>\n</FONT><FONT COLOR="#000000" FACE="Calibri">MR SIMON M
+	BUN MBAH</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000
+	000" FACE="Calibri">PO BOX 18082\, NEW BELL </FONT><BR>\n<FONT COLOR="#00
+	0000" FACE="Calibri">DOUALA </FONT><BR>\n<FONT FACE="Arial">mbacoie@yahoo
+	.fr &lt\;<A HREF="mailto:mbacoie@yahoo.fr">mailto:mbacoie@yahoo.fr</A>&gt\
+	;        </FONT><FONT COLOR="#000000" FACE="Calibri">       
+	</FONT><BR>\n<FONT FACE="Calibri">FAX#</FONT><FONT COLOR="#000000" FACE="C
+	alibri">237 3433206</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT 
+	COLOR="#000000" FACE="Calibri">+237</FONT><FONT FACE="Arial"> </FONT><FON
+	T COLOR="#000000" FACE="Calibri"> 3433206</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT COLOR="#000000" FACE="Calibri">31/07 Email presentac
+	ión</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ETS MOSTLANDCAM TECHNOLOGY investor \n\n3 B Central Market Road
+	\;\nDouala <http://www.list-company.com/company/search/index.jsp?qs=Douala
+	>\, Littoral <http://www.list-company.com/company/search/index.jsp?qs=Litt
+	oral> 237\nCameroon <http://www.list-company.com/company/search/index.jsp?
+	qs=Cameroon>\n\nTel: 00237-75801773\n\nFax: 0237-758177-84\n\nIndustry: Ph
+	armaceuticals <http://www.list-company.com/company/list/i150180-r/Pharmace
+	uticals.shtml>\, Cleaning Products <http://www.list-company.com/company/li
+	st/i180170-r/Cleaning-Products.shtml>\, Cosmetics & Personal Care <http://
+	www.list-company.com/company/list/i180240-r/Cosmetics-Personal-Care.shtml>
+	\, Food & Beverages <http://www.list-company.com/company/list/i180300-r/Fo
+	od-Beverages.shtml>\n\nwe are reliable company engages in the importaion o
+	f general goods for it good sale to the end user and we are looking for ma
+	nufacture \, exporter \, supplier to contact us with their product details
+	 for oiur study and order plaecment with them also to commerce business re
+	lationshipp with them for mutual benefit\n\n
+DTEND;TZID="Romance Standard Time":20120731T110000
+DTSTAMP:20221214T090729Z
+DTSTART;TZID="Romance Standard Time":20120731T103000
+LAST-MODIFIED:20201030T084650Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ETS MOSTLANDCAM TECHNOLOGY investor _CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000336997A1AED601000000000000000
+	010000000DD22F1E1AD9A0548B0AEA180983E1DFC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" FACE="Arial">ETS MOSTLANDCAM TECHNOLOGY investor</FONT></B><FONT CO
+	LOR="#000000" FACE="Arial"></FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><FONT COLOR="#000000" FACE="Arial">3 B Central Market Road\;<BR>\n</FON
+	T><FONT FACE="Arial">Douala &lt\;<A HREF="http://www.list-company.com/comp
+	any/search/index.jsp?qs=Douala">http://www.list-company.com/company/search
+	/index.jsp?qs=Douala</A>&gt\;</FONT><FONT COLOR="#000000" FACE="Arial">\,<
+	/FONT><FONT FACE="Arial"> Littoral &lt\;<A HREF="http://www.list-company.c
+	om/company/search/index.jsp?qs=Littoral">http://www.list-company.com/compa
+	ny/search/index.jsp?qs=Littoral</A>&gt\;</FONT><FONT COLOR="#000000" FACE=
+	"Arial"> 237<BR>\n</FONT><FONT FACE="Arial">Cameroon &lt\;<A HREF="http://
+	www.list-company.com/company/search/index.jsp?qs=Cameroon">http://www.list
+	-company.com/company/search/index.jsp?qs=Cameroon</A>&gt\;</FONT></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#000000" FACE="Arial">Tel
+	</FONT></B><FONT COLOR="#000000" FACE="Arial">: 00237-75801773</FONT></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#000000" FACE="Arial"
+	>Fax</FONT></B><FONT COLOR="#000000" FACE="Arial">: 0237-758177-84</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#000000" SIZE=1 F
+	ACE="Arial">Industry</FONT></B><FONT COLOR="#000000" SIZE=1 FACE="Arial">:
+	</FONT><FONT FACE="Arial"> Pharmaceuticals &lt\;<A HREF="http://www.list-c
+	ompany.com/company/list/i150180-r/Pharmaceuticals.shtml">http://www.list-c
+	ompany.com/company/list/i150180-r/Pharmaceuticals.shtml</A>&gt\;</FONT><FO
+	NT COLOR="#000000" SIZE=1 FACE="Arial">\,</FONT><FONT FACE="Arial"> Cleani
+	ng Products &lt\;<A HREF="http://www.list-company.com/company/list/i180170
+	-r/Cleaning-Products.shtml">http://www.list-company.com/company/list/i1801
+	70-r/Cleaning-Products.shtml</A>&gt\;</FONT><FONT COLOR="#000000" SIZE=1 F
+	ACE="Arial">\,</FONT><FONT FACE="Arial"> Cosmetics &amp\; Personal Care &l
+	t\;<A HREF="http://www.list-company.com/company/list/i180240-r/Cosmetics-P
+	ersonal-Care.shtml">http://www.list-company.com/company/list/i180240-r/Cos
+	metics-Personal-Care.shtml</A>&gt\;</FONT><FONT COLOR="#000000" SIZE=1 FAC
+	E="Arial">\,</FONT><FONT FACE="Arial"> Food &amp\; Beverages &lt\;<A HREF=
+	"http://www.list-company.com/company/list/i180300-r/Food-Beverages.shtml">
+	http://www.list-company.com/company/list/i180300-r/Food-Beverages.shtml</A
+	>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#00000
+	0" SIZE=1 FACE="Arial">we are reliable company engages in the importaion o
+	f general goods for it good sale to the end user and we are looking for ma
+	nufacture \, exporter \, supplier to contact us with their product details
+	 for oiur study and order plaecment with them also to commerce business re
+	lationshipp with them for mutual benefit</FONT></SPAN></P>\n\n</BODY>\n</H
+	TML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ETS KAMRICH SARL \n\n47 RUE DE LA SALE BONAPRISO\nDOUALA <http:
+	//www.list-company.com/company/search/index.jsp?qs=DOUALA>\, Littoral <htt
+	p://www.list-company.com/company/search/index.jsp?qs=Littoral> 237\nCamero
+	on <http://www.list-company.com/company/search/index.jsp?qs=Cameroon>\n\nT
+	el: 94531027\n\nFax: 33435363\n\nInstant Messenger:\namrthins\n\nIndustry:
+	 Pharmaceuticals <http://www.list-company.com/company/list/i150180-r/Pharm
+	aceuticals.shtml>\, Cleaning Products <http://www.list-company.com/company
+	/list/i180170-r/Cleaning-Products.shtml>\, Cosmetics & Personal Care <http
+	://www.list-company.com/company/list/i180240-r/Cosmetics-Personal-Care.sht
+	ml>\, Food & Beverages <http://www.list-company.com/company/list/i180300-r
+	/Food-Beverages.shtml>\n\nwe are reliable company engages in the importaio
+	n of general goods for it good sale to the end user and we are looking for
+	 manufacture \, exporter \, supplier to contact us with their product deta
+	ils for oiur study and order plaecment with them also to commerce business
+	 relationshipp with them for mutual benefit\n\n
+DTEND;TZID="Romance Standard Time":20120731T113000
+DTSTAMP:20221214T090729Z
+DTSTART;TZID="Romance Standard Time":20120731T110000
+LAST-MODIFIED:20201030T084650Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ETS KAMRICH SARL _ CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000307497A1AED601000000000000000
+	0100000000AC40827B3EC36488AE5A6F006F4998A
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" FACE="Arial">ETS KAMRICH SARL</FONT></B><FONT COLOR="#000000" FACE=
+	"Arial"></FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#00
+	0000" FACE="Arial">47 RUE DE LA SALE BONAPRISO<BR>\n</FONT><FONT FACE="Ari
+	al">DOUALA &lt\;<A HREF="http://www.list-company.com/company/search/index.
+	jsp?qs=DOUALA">http://www.list-company.com/company/search/index.jsp?qs=DOU
+	ALA</A>&gt\;</FONT><FONT COLOR="#000000" FACE="Arial">\,</FONT><FONT FACE=
+	"Arial"> Littoral &lt\;<A HREF="http://www.list-company.com/company/search
+	/index.jsp?qs=Littoral">http://www.list-company.com/company/search/index.j
+	sp?qs=Littoral</A>&gt\;</FONT><FONT COLOR="#000000" FACE="Arial"> 237<BR>\
+	n</FONT><FONT FACE="Arial">Cameroon &lt\;<A HREF="http://www.list-company.
+	com/company/search/index.jsp?qs=Cameroon">http://www.list-company.com/comp
+	any/search/index.jsp?qs=Cameroon</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><B><FONT COLOR="#000000" FACE="Arial">Tel</FONT></B><FONT 
+	COLOR="#000000" FACE="Arial">: 94531027</FONT></SPAN></P>\n\n<P DIR=LTR><S
+	PAN LANG="es"><B><FONT COLOR="#000000" FACE="Arial">Fax</FONT></B><FONT CO
+	LOR="#000000" FACE="Arial">: 33435363</FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><B><FONT COLOR="#000000" FACE="Arial">Instant Messenger</FONT>
+	</B><FONT COLOR="#000000" FACE="Arial">:<BR>\namrthins</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#000000" SIZE=1 FACE="Arial">
+	Industry</FONT></B><FONT COLOR="#000000" SIZE=1 FACE="Arial">:</FONT><FONT
+	 FACE="Arial"> Pharmaceuticals &lt\;<A HREF="http://www.list-company.com/c
+	ompany/list/i150180-r/Pharmaceuticals.shtml">http://www.list-company.com/c
+	ompany/list/i150180-r/Pharmaceuticals.shtml</A>&gt\;</FONT><FONT COLOR="#0
+	00000" SIZE=1 FACE="Arial">\,</FONT><FONT FACE="Arial"> Cleaning Products 
+	&lt\;<A HREF="http://www.list-company.com/company/list/i180170-r/Cleaning-
+	Products.shtml">http://www.list-company.com/company/list/i180170-r/Cleanin
+	g-Products.shtml</A>&gt\;</FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">
+	\,</FONT><FONT FACE="Arial"> Cosmetics &amp\; Personal Care &lt\;<A HREF="
+	http://www.list-company.com/company/list/i180240-r/Cosmetics-Personal-Care
+	.shtml">http://www.list-company.com/company/list/i180240-r/Cosmetics-Perso
+	nal-Care.shtml</A>&gt\;</FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">\,
+	</FONT><FONT FACE="Arial"> Food &amp\; Beverages &lt\;<A HREF="http://www.
+	list-company.com/company/list/i180300-r/Food-Beverages.shtml">http://www.l
+	ist-company.com/company/list/i180300-r/Food-Beverages.shtml</A>&gt\;</FONT
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FA
+	CE="Arial">we are reliable company engages in the importaion of general go
+	ods for it good sale to the end user and we are looking for manufacture \,
+	 exporter \, supplier to contact us with their product details for oiur st
+	udy and order plaecment with them also to commerce business relationshipp 
+	with them for mutual benefit</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:RICHOCEAN PLC \n\n100 Rue Des Mangiers\nDouala <http://www.list
+	-company.com/company/search/index.jsp?qs=Douala>\, Littoral <http://www.li
+	st-company.com/company/search/index.jsp?qs=Littoral> 4304\nCameroon <http:
+	//www.list-company.com/company/search/index.jsp?qs=Cameroon>\n\nTel: 23796
+	169783\n\nFax: 23733422340\n\nDear Sir(s)\,\nWe are looking for The Manufa
+	cturers and exporters of undermentioned Products lines of interests:FOODST
+	UFF & BEVERAGES\, PHARMACEUTICALS & MEDICAL SUPPLIES\, MOBILE PHONES (GSM)
+	 COMPUTERS & ACCESSORIES\,ELECTRONICS & ELECTRICALS\, TEXTILES STOCKLOTS\,
+	PVC FLOORINGS\, RUGS CARPETS\,USED FLOOR CARPETS\, SOAPS & DETERGENTS\, SK
+	IN\,HAIR\,FACIAL\, DENTICAL CARE PRODUCTS & PERFUMERY PRODUCTS\,JEWELLRY &
+	 IMITATION JEWELLRIES\, ADHESIVES & GLUES\,AUTOMOTIVE BODY REPAIRS ACCESSO
+	RIES AND etc..............\nPlease humbly plead interested Parties to cont
+	act us directly with their Offers by email\, DHL and Fax for possible fast
+	er negotiations\, thereby enabling us to forward them with our Order detai
+	ls and soon back it with payment in their favour enabling them process shi
+	pment without further delaying.\nBest Regards\nO.Samuel\n\n
+DTEND;TZID="Romance Standard Time":20120731T113000
+DTSTAMP:20221214T090729Z
+DTSTART;TZID="Romance Standard Time":20120731T110000
+LAST-MODIFIED:20201030T084650Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:RICHOCEAN PLC _ CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000057F97A1AED601000000000000000
+	010000000A1AFDA814B8F834E992A36FB4F5D0E33
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" FACE="Arial">RICHOCEAN PLC</FONT></B><FONT COLOR="#000000" FACE="Ar
+	ial"></FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#00000
+	0" FACE="Arial">100 Rue Des Mangiers<BR>\n</FONT><FONT FACE="Arial">Douala
+	 &lt\;<A HREF="http://www.list-company.com/company/search/index.jsp?qs=Dou
+	ala">http://www.list-company.com/company/search/index.jsp?qs=Douala</A>&gt
+	\;</FONT><FONT COLOR="#000000" FACE="Arial">\,</FONT><FONT FACE="Arial"> L
+	ittoral &lt\;<A HREF="http://www.list-company.com/company/search/index.jsp
+	?qs=Littoral">http://www.list-company.com/company/search/index.jsp?qs=Litt
+	oral</A>&gt\;</FONT><FONT COLOR="#000000" FACE="Arial"> 4304<BR>\n</FONT><
+	FONT FACE="Arial">Cameroon &lt\;<A HREF="http://www.list-company.com/compa
+	ny/search/index.jsp?qs=Cameroon">http://www.list-company.com/company/searc
+	h/index.jsp?qs=Cameroon</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><B><FONT COLOR="#000000" FACE="Arial">Tel</FONT></B><FONT COLOR="#0
+	00000" FACE="Arial">: 23796169783</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LA
+	NG="es"><B><FONT COLOR="#000000" FACE="Arial">Fax</FONT></B><FONT COLOR="#
+	000000" FACE="Arial">: 23733422340</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">Dear Sir(s)\,<BR>\nWe a
+	re looking for The Manufacturers and exporters of undermentioned Products 
+	lines of interests:FOODSTUFF &amp\; BEVERAGES\, PHARMACEUTICALS &amp\; MED
+	ICAL SUPPLIES\, MOBILE PHONES (GSM) COMPUTERS &amp\; ACCESSORIES\,ELECTRON
+	ICS &amp\; ELECTRICALS\, TEXTILES STOCKLOTS\,PVC FLOORINGS\, RUGS CARPETS\
+	,USED FLOOR CARPETS\, SOAPS &amp\; DETERGENTS\, SKIN\,HAIR\,FACIAL\, DENTI
+	CAL CARE PRODUCTS &amp\; PERFUMERY PRODUCTS\,JEWELLRY &amp\; IMITATION JEW
+	ELLRIES\, ADHESIVES &amp\; GLUES\,AUTOMOTIVE BODY REPAIRS ACCESSORIES AND 
+	etc..............<BR>\nPlease humbly plead interested Parties to contact u
+	s directly with their Offers by email\, DHL and Fax for possible faster ne
+	gotiations\, thereby enabling us to forward them with our Order details an
+	d soon back it with payment in their favour enabling them process shipment
+	 without further delaying.<BR>\nBest Regards<BR>\nO.Samuel</FONT></SPAN></
+	P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ets jilo cam sarl \n\n19-20 rue de akwa nourth\ndouala <http://
+	www.list-company.com/company/search/index.jsp?qs=douala>\, littoral <http:
+	//www.list-company.com/company/search/index.jsp?qs=littoral> 00302\nCamero
+	on <http://www.list-company.com/company/search/index.jsp?qs=Cameroon>\n\nT
+	el: 0023733187972\n\nFax: 0023733187972\n\nWe are importers based here in 
+	our economic capital city of Douala Rep Of Cameroon in central Africa\, so
+	 it will be our company great opportunity if you will reply to us by sendi
+	ng your company products list and price which we will use and present to o
+	ur local customers to enable them make they choice selection of the once w
+	hich they are looking interested on them for our company first order\n\nFo
+	r urgent information Tele +23733187972 we are the importers of Full Jacket
+	 (without sleeves wine red wine \, white wine\, Wine\, Olives\, Olive Oil\
+	, and beverages of all kind general goods products etc\n\n
+DTEND;TZID="Romance Standard Time":20120731T113000
+DTSTAMP:20221214T090729Z
+DTSTART;TZID="Romance Standard Time":20120731T110000
+LAST-MODIFIED:20201030T084650Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ets jilo cam sarl _ CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000069197A1AED601000000000000000
+	0100000008A378F6B87F0C54B9A757CDD22C8C792
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" FACE="Arial">ets jilo cam sarl</FONT></B><FONT FACE="Arial"></FONT>
+	 </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" FACE="Ari
+	al">19-20 rue de akwa nourth<BR>\n</FONT><FONT FACE="Arial">douala &lt\;<A
+	 HREF="http://www.list-company.com/company/search/index.jsp?qs=douala">htt
+	p://www.list-company.com/company/search/index.jsp?qs=douala</A>&gt\;</FONT
+	><FONT COLOR="#000000" FACE="Arial">\,</FONT><FONT FACE="Arial"> littoral 
+	&lt\;<A HREF="http://www.list-company.com/company/search/index.jsp?qs=litt
+	oral">http://www.list-company.com/company/search/index.jsp?qs=littoral</A>
+	&gt\;</FONT><FONT COLOR="#000000" FACE="Arial"> 00302<BR>\n</FONT><FONT FA
+	CE="Arial">Cameroon &lt\;<A HREF="http://www.list-company.com/company/sear
+	ch/index.jsp?qs=Cameroon">http://www.list-company.com/company/search/index
+	.jsp?qs=Cameroon</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<B><FONT COLOR="#000000" FACE="Arial">Tel</FONT></B><FONT COLOR="#000000" 
+	FACE="Arial">: 0023733187972</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><B><FONT COLOR="#000000" FACE="Arial">Fax</FONT></B><FONT COLOR="#00000
+	0" FACE="Arial">: 0023733187972</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT COLOR="#000000" FACE="Arial">We are importers based here in ou
+	r economic capital city of Douala Rep Of Cameroon in central Africa\, so i
+	t will be our company great opportunity if you will reply to us by sending
+	 your company products list and price which we will use and present to our
+	 local customers to enable them make they choice selection of the once whi
+	ch they are looking interested on them for our company first order<BR>\n<B
+	R>\nFor urgent information Tele +23733187972 we are the importers of Full 
+	Jacket (without sleeves wine red wine \, white wine\, Wine\, Olives\, Oliv
+	e Oil\, and beverages of all kind general goods products etc</FONT></SPAN>
+	</P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Domingos Moreira \n\nCountry Manager Cameroon \n\n \n\n       \
+	n        Bonapriso - Douala - Cameroon  \n\n\n        +23799187426   \n\n\
+	nwww.Mdo-group.com\n\n	Each month\, our suppliers receive cargoes of appro
+	ximately 200 tons of goods\, composed of dry\, fresh and frozen products\,
+	 cleaning products and disposable. \n\n
+DTEND;TZID="Romance Standard Time":20120731T120000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T113000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:mdo group_cam
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000000A797A1AED601000000000000000
+	010000000E1FB9908356B5744B5968B59477AB549
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#A033
+	25" SIZE=6 FACE="Arial">Domingos Moreira</FONT> </SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT COLOR="#1C8191" SIZE=5 FACE="Arial">Country Manager 
+	Cameroon</FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Aria
+	l"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	       <BR>\n        </FONT><FONT COLOR="#646464" SIZE=1 FAC
+	E="Arial">Bonapriso - Douala - Cameroon  </FONT><BR>\n</SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Arial">        </FONT><FONT COLO
+	R="#646464" SIZE=1 FACE="Arial">+23799187426   </FONT><BR>\n</SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">www.Mdo-group.com</FONT
+	></SPAN></P>\n<UL DIR=LTR>\n<P DIR=LTR ALIGN=JUSTIFY><SPAN LANG="es"><FONT
+	 COLOR="#646464" SIZE=2 FACE="Helvetica">Each month\, our suppliers receiv
+	e cargoes of approximately 200 tons of goods\, composed of dry\, fresh and
+	 frozen products\, cleaning products and disposable.</FONT><FONT FACE="Ari
+	al"> </FONT></SPAN></P>\n</UL>\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:<http://www.yellowpagesofafrica.com/companies/cameroon/supermar
+	kets/>\n\n
+DTEND;TZID="Romance Standard Time":20120731T120000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T113000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:SUPERMERCADOS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000B2AF97A1AED601000000000000000
+	010000000E3A23DBA56F4E14FB8FE0C789A2E257C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><U><FONT COLOR="#0
+	000FF" FACE="Calibri">&lt\;<A HREF="http://www.yellowpagesofafrica.com/com
+	panies/cameroon/supermarkets/">http://www.yellowpagesofafrica.com/companie
+	s/cameroon/supermarkets/</A>&gt\;</FONT></U></SPAN></P>\n\n</BODY>\n</HTML
+	>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:D. Tsekenis SA \n\n \n\nSiège social\n201\, rue Joffre - Akwa\
+	nBP 347 Douala CAMEROUN\nTéléphone : (237) 33 42 93 15 / (237) 33 42 83 
+	78\nFax : (237) 33 42 83 03\n\n\nCompras : Mr. Ming Bao (eng)\n\nTsekenis.
+	douala@tsekenis.com <mailto:Tsekenis.douala@tsekenis.com>\n\nmbao@tsekenis
+	.com <mailto:mbao@tsekenis.com>\n\n\nBureaux Yaounde\nImmeuble Tsekenis\nB
+	P 30 Yaounde CAMEROUN\nTéléphone : (237) 22 22 19 21\nFax : (237) 22 23 
+	04 73\n\nDirections Commerciales\nT.Work : (237) 33 42 25 70\nT.Tech : (23
+	7) 33 42 25 70\nT.Max : (237) 33 43 08 54\nT.Rest : (237) 33 43 08 54\nT.L
+	ife : (237) 33 42 93 15\nT.Shop : (237) 33 42 93 15\nGipa : (241) 76 22 91
+	\nCAMEROUN \n\n tsekenis.douala@tsekenis.com <mailto:tsekenis.douala@tseke
+	nis.com>\n\nLancé en 2011\, T.Rest offre à la fois un service sur-mesure
+	 aux collectivités et un espace innovant de vente d’équipements profes
+	sionnels pour les Cafés\, Hotels et Restaurants (CHR).  De l’alimentair
+	e à la décoration\, de la vaisselle aux équipements et produits d’ent
+	retien\, T.Rest met à la disposition des professionnels de la restauratio
+	n\, des hôpitaux\, entreprises et industriels une équipe commerciale dyn
+	amique et dédiée qui saura accompagner la satisfaction des besoins les p
+	lus spécifiques\n\n\n01/08/12 mandamos catálogo x email a Mr. Ming.Recib
+	ido. los productos le interesan si los precios son competitivos. Nos pasar
+	á referencias para cotizar cuando hable con su equipo de ventas.\n\n08/08
+	 Mr. Está de vacaciones. Llamar en Sept.\n\n
+DTEND;TZID="Romance Standard Time":20120906T093000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120906T090000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:D.TSEKENIS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000FDBA97A1AED601000000000000000
+	01000000051CE1290D186A946B59B645F4CE20F38
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" FACE="Georgia">D. Tsekenis SA</FONT></B> </SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Siège social</F
+	ONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">201\, rue Joffre -
+	 Akwa</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">BP 347 Dou
+	ala CAMEROUN</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Té
+	léphone : (237) 33 42 93 15 / (237) 33 42 83 78</FONT><BR>\n<FONT COLOR="
+	#000000" SIZE=1 FACE="Helvetica">Fax : (237) 33 42 83 03</FONT><BR>\n</SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="He
+	lvetica">Compras : Mr. Ming Bao (eng)</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT FACE="Arial">Tsekenis.douala@tsekenis.com &lt\;<A HREF=
+	"mailto:Tsekenis.douala@tsekenis.com">mailto:Tsekenis.douala@tsekenis.com<
+	/A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial
+	">mbao@tsekenis.com &lt\;<A HREF="mailto:mbao@tsekenis.com">mailto:mbao@ts
+	ekenis.com</A>&gt\;</FONT></SPAN></P>\n<BR>\n\n<P DIR=LTR><SPAN LANG="es">
+	<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Bureaux Yaounde</FONT><BR>\n
+	<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Immeuble Tsekenis</FONT><BR>
+	\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">BP 30 Yaounde CAMEROUN</FO
+	NT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Téléphone : (237)
+	 22 22 19 21</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">Fax
+	 : (237) 22 23 04 73</FONT><BR>\n<BR>\n<FONT COLOR="#000000" SIZE=1 FACE="
+	Helvetica">Directions Commerciales</FONT><BR>\n<FONT COLOR="#000000" SIZE=
+	1 FACE="Helvetica">T.Work : (237) 33 42 25 70</FONT><BR>\n<FONT COLOR="#00
+	0000" SIZE=1 FACE="Helvetica">T.Tech : (237) 33 42 25 70</FONT><BR>\n<FONT
+	 COLOR="#000000" SIZE=1 FACE="Helvetica">T.Max : (237) 33 43 08 54</FONT><
+	BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">T.Rest : (237) 33 43 08
+	 54</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">T.Life : (23
+	7) 33 42 93 15</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Helvetica">T
+	.Shop : (237) 33 42 93 15</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="H
+	elvetica">Gipa : (241) 76 22 91</FONT><BR>\n<FONT COLOR="#000000" SIZE=1 F
+	ACE="Helvetica">CAMEROUN</FONT><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> tsekenis.douala@tsekenis.co
+	m &lt\;<A HREF="mailto:tsekenis.douala@tsekenis.com">mailto:tsekenis.doual
+	a@tsekenis.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT COLOR="#000000" SIZE=2 FACE="Helvetica">Lancé en 2011\, T.Rest offre 
+	à la fois un service sur-mesure aux collectivités et un espace innovant 
+	de vente d’équipements professionnels pour les Cafés\, Hotels et Resta
+	urants (CHR).  De l’alimentaire à la décoration\, de la vaisselle aux
+	 équipements et produits d’entretien\, T.Rest met à la disposition des
+	 professionnels de la restauration\, des hôpitaux\, entreprises et indust
+	riels une équipe commerciale dynamique et dédiée qui saura accompagner 
+	la satisfaction des besoins les plus spécifiques</FONT></SPAN></P>\n<BR>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Helvetica
+	">01/08/12 mandamos catálogo x email a Mr. Ming.Recibido. los productos l
+	e interesan si los precios son competitivos. Nos pasará referencias para 
+	cotizar cuando hable con su equipo de ventas.</FONT></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Helvetica">08/08 Mr
+	. Está de vacaciones. Llamar en Sept.</FONT></SPAN></P>\n\n</BODY>\n</HTM
+	L>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:<http://www.yellowpagesofafrica.com/companies/cameroon/general-
+	food/>\n\n
+DTEND;TZID="Romance Standard Time":20120731T123000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T120000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:GENERAL FOOD_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000005DC597A1AED601000000000000000
+	01000000058BEBA231B6ADB40B4B5DE4EEBCBE7C4
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><U><FONT COLOR="#0
+	000FF" FACE="Calibri">&lt\;<A HREF="http://www.yellowpagesofafrica.com/com
+	panies/cameroon/general-food/">http://www.yellowpagesofafrica.com/companie
+	s/cameroon/general-food/</A>&gt\;</FONT></U></SPAN></P>\n\n</BODY>\n</HTML
+	>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:<http://www.yellowpagesofafrica.com/companies/cameroon/food-dis
+	tributors-wholesalers/>\n\n
+DTEND;TZID="Romance Standard Time":20120731T123000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T120000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:FOOD DISTRIBUTORS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000C1CD97A1AED601000000000000000
+	01000000051DDEAD54D0DB041B5160925AE21877D
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><U><FONT COLOR="#0
+	000FF" FACE="Calibri">&lt\;<A HREF="http://www.yellowpagesofafrica.com/com
+	panies/cameroon/food-distributors-wholesalers/">http://www.yellowpagesofaf
+	rica.com/companies/cameroon/food-distributors-wholesalers/</A>&gt\;</FONT>
+	</U></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:<http://www.yellowpagesofafrica.com/companies/cameroon/equipmen
+	t-hotels-restaurants/>\n\n
+DTEND;TZID="Romance Standard Time":20120731T123000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T120000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:HOTEL EQUIPMENT_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000004DD697A1AED601000000000000000
+	01000000080BA06ECEB9992428849DBB66459A01C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><U><FONT COLOR="#0
+	000FF" FACE="Calibri">&lt\;<A HREF="http://www.yellowpagesofafrica.com/com
+	panies/cameroon/equipment-hotels-restaurants/">http://www.yellowpagesofafr
+	ica.com/companies/cameroon/equipment-hotels-restaurants/</A>&gt\;</FONT></
+	U></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Address:\n\n17 Rue Bepanda\nDouala\, Littoral\n Cameroon       
+	Contact:\n\nMr. Maxwell Agbai (Director/CEO/General Manager)\nPhone: 237-5
+	59-7578    \n\n\nMrs. Maxwell Agbai \n\n	T: 237-559-7578 \n\n	M: 237559757
+	8 \n\n	F: 237-342-6161 \n\n	Address: N 17 Rue Bepanda\, Littoral\, Cameroo
+	n \n\n	[CM] \n\nTRADING COMPANY\n\n
+DTEND;TZID="Romance Standard Time":20120731T173000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T170000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:UNIC LINK_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000022E197A1AED601000000000000000
+	01000000078CE2DFCB584094AB0943662688FDE2F
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#9999
+	99" SIZE=2 FACE="Arial">Address:</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT COLOR="#333333" SIZE=1 FACE="Arial">17 Rue Bepanda<BR>\nDoual
+	a\, Littoral<BR>\n</FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#333333"
+	 SIZE=1 FACE="Arial">Cameroon</FONT><FONT FACE="Arial">       </FONT
+	><FONT COLOR="#999999" SIZE=2 FACE="Arial">Contact:</FONT></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#333333" SIZE=1 FACE="Arial">Mr.
+	 Maxwell Agbai</FONT></B><FONT COLOR="#333333" SIZE=1 FACE="Arial"> (Dire
+	ctor/CEO/General Manager)<BR>\nPhone: 237-559-7578    </FONT><BR>\n</SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#333333" SIZE=1 FACE
+	="Arial">Mrs. Maxwell Agbai</FONT></B> </SPAN></P>\n<UL DIR=LTR>\n<P DIR=L
+	TR><SPAN LANG="es"><B><FONT COLOR="#333333" SIZE=1 FACE="Arial">T:</FONT><
+	/B><FONT FACE="Arial"> </FONT><FONT COLOR="#333333" SIZE=1 FACE="Arial">23
+	7-559-7578</FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR
+	="#333333" SIZE=1 FACE="Arial">M: 2375597578</FONT></B> </SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#333333" SIZE=1 FACE="Arial">F: 23
+	7-342-6161</FONT></B> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT C
+	OLOR="#333333" SIZE=1 FACE="Arial">Address: N 17 Rue Bepanda\, Littoral\, 
+	Cameroon</FONT></B> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COL
+	OR="#333333" SIZE=1 FACE="Arial">[CM]</FONT></B> </SPAN></P>\n</UL>\n<P DI
+	R=LTR><SPAN LANG="es"><FONT FACE="Calibri">TRADING COMPANY</FONT></SPAN></
+	P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:DOW Distribution Sarl\n\nGM: Ekoudi Anatole Dieubenis\n\nCompan
+	y address\n\nMokolo\, BP 20829\, Yaounde <http://www.businesslist.co.cm/lo
+	cation/yaounde>\n\nPhone\n\n22 22 50 34\n99 41 60 85\n77 81 48 72\n\nFax\n
+	\n22 22 50 34\n\nanmegle@hotmail.com <mailto:anmegle@hotmail.com>?\n\n06/0
+	8 mandamos email.\n\n
+DTEND;TZID="Romance Standard Time":20120731T173000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120731T170000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:DOW DISTRIBUTION_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000003EF997A1AED601000000000000000
+	0100000003178CBA70F1DEA4E9F3A8E22A9E1C30B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" SIZE=1 FACE="Arial">DOW Distribution Sarl</FONT></B></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Verdana">GM:
+	 Ekoudi Anatole Dieubenis</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<FONT COLOR="#000000" SIZE=1 FACE="Arial">Company address</FONT></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">
+	Mokolo\, BP 20829\,</FONT><FONT FACE="Arial"></FONT> <FONT FACE="Arial">Ya
+	ounde &lt\;<A HREF="http://www.businesslist.co.cm/location/yaounde">http:/
+	/www.businesslist.co.cm/location/yaounde</A>&gt\;</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">Phone</F
+	ONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><STRIKE><FONT COLOR="#000
+	000" SIZE=1 FACE="Arial">22 22 50 34</FONT></STRIKE></B><STRIKE><BR>\n<B><
+	/B><B></B><B><FONT COLOR="#000000" SIZE=1 FACE="Arial">99 41 60 85</FONT><
+	/B><BR>\n<B></B></STRIKE><B></B><B></B><B><FONT COLOR="#000000" SIZE=1 FAC
+	E="Arial">77 81 48 72</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<FONT COLOR="#000000" SIZE=1 FACE="Arial">Fax</FONT></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">22 22 50 34<
+	/FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">anmegle
+	@hotmail.com &lt\;<A HREF="mailto:anmegle@hotmail.com">mailto:anmegle@hotm
+	ail.com</A>&gt\;</FONT><FONT FACE="Calibri">?</FONT></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT FACE="Calibri">06/08 mandamos email.</FONT></SPA
+	N></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ECOMARCHE\n\nCompany address\n\nBP. 8160\, CAMEROON\, Douala <h
+	ttp://www.businesslist.co.cm/location/douala>\n\nPhone\n\n(237) 33 43 67 9
+	6\n\nSUPERMERCADO\n\n
+DTEND;TZID="Romance Standard Time":20120802T103000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T100000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ECOMARCHE_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000ED0398A1AED601000000000000000
+	0100000007549214C144B1B4F8BBD19B98B7164DD
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" SIZE=1 FACE="Arial">ECOMARCHE</FONT></B></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">Company address</
+	FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=
+	1 FACE="Arial">BP. 8160\, CAMEROON\,</FONT><FONT FACE="Arial"></FONT> <FON
+	T FACE="Arial">Douala &lt\;<A HREF="http://www.businesslist.co.cm/location
+	/douala">http://www.businesslist.co.cm/location/douala</A>&gt\;</FONT></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="A
+	rial">Phone</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><STRIKE><FO
+	NT COLOR="#000000" SIZE=1 FACE="Arial">(237) 33 43 67 96</FONT></STRIKE></
+	B><STRIKE></STRIKE></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="C
+	alibri">SUPERMERCADO</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:<http://www.importers-exporters-directory.com/entreprises-apa_c
+	leaning-hygiene-products_316.php>\n\n\n<http://www.cecif.com/entreprises/a
+	nnuaire-0510_9-dans-entreprises.html>\n\n<http://www.infobel.com/es/world/
+	worldteldir.aspx?page=%2Feng%2Fafri%2Fcm>\n\n<http://records.realitgh.com/
+	fr.index.php>\n\n<http://www.africatamtam.com/a.php/Cameroon-web-directory
+	/62?lang=fr>\n\n<http://www.gcoupon.com/view/countries/COD/Discount_Produc
+	ts_Congo_Democratic_Republic.html>\n\n
+DTEND;TZID="Romance Standard Time":20120801T123000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120801T120000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:links africa
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000971998A1AED601000000000000000
+	01000000034210AF45400ED4595264497ADB1C4AB
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>&lt\;<A HREF="http://www.importers-exporters-directory.com/entreprises-ap
+	a_cleaning-hygiene-products_316.php">http://www.importers-exporters-direct
+	ory.com/entreprises-apa_cleaning-hygiene-products_316.php</A>&gt\;</FONT><
+	/SPAN></P>\n<BR>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">&lt\;<A 
+	HREF="http://www.cecif.com/entreprises/annuaire-0510_9-dans-entreprises.ht
+	ml">http://www.cecif.com/entreprises/annuaire-0510_9-dans-entreprises.html
+	</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Aria
+	l">&lt\;<A HREF="http://www.infobel.com/es/world/worldteldir.aspx?page=%2F
+	eng%2Fafri%2Fcm">http://www.infobel.com/es/world/worldteldir.aspx?page=%2F
+	eng%2Fafri%2Fcm</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT FACE="Arial">&lt\;<A HREF="http://records.realitgh.com/fr.index.php">
+	http://records.realitgh.com/fr.index.php</A>&gt\;</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">&lt\;<A HREF="http://www.africa
+	tamtam.com/a.php/Cameroon-web-directory/62?lang=fr">http://www.africatamta
+	m.com/a.php/Cameroon-web-directory/62?lang=fr</A>&gt\;</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><U><FONT COLOR="#0000FF" FACE="Calibri">&lt\;
+	<A HREF="http://www.gcoupon.com/view/countries/COD/Discount_Products_Congo
+	_Democratic_Republic.html">http://www.gcoupon.com/view/countries/COD/Disco
+	unt_Products_Congo_Democratic_Republic.html</A>&gt\;</FONT></U></SPAN></P>
+	\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:FLORE SERVICES\n\nB.P. 10114 - Quartier Bassa (Camrail)\nDOUALA
+	\nManager : Mme MBELLA NNIA Nathalie Flore \n\nMob: +237 77 20 26 63\n\nfl
+	ore_service@yahoo.fr <mailto:floreservice@yahoo.fr>\n\nfloreservices@yahoo
+	.fr <mailto:floreservices@yahoo.fr>\n\n        Tél. : (+237) 33 40 22 69 
+	/ 77 20 26 63 / 77 28 60 36\n\nFax. : (+237) 33 40 22 69      \nAdditional
+	 information :\n\nStatus : SARL\n\nProfessional Category : ReprÃ©sentati
+	on\n\nCreation Date : 1995\n\nMajor brands distributed : ELYCLEAN\n\nWhich
+	 cities? Douala - YaoundÃ© - Garoua\n\nMajor suppliers : ELYSEE GMBH\n\n
+	Blanket professional : Sous RÃ©gion\n\nStaff : de 101 Ã  500\n\nAnnual 
+	turnover : 350 000 000 FCA\n\n<http://www.importers-exporters-directory.co
+	m/index.php?page=entreprise&id=68674>\n\n\n01/08/12 mandamos catálogo x e
+	mail.\n\n
+DTEND;TZID="Romance Standard Time":20120806T093000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120806T090000
+LAST-MODIFIED:20201030T084651Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:FLORE SERVICES
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000C42998A1AED601000000000000000
+	010000000415EC87EE333964C81228A028D2612FC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	00000" SIZE=1 FACE="Arial">FLORE SERVICES</FONT></B></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">B.P. 10114 -
+	 Quartier Bassa (Camrail)<BR>\nDOUALA<BR>\nManager : Mme MBELLA NNIA Natha
+	lie Flore </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#
+	000000" SIZE=1 FACE="Arial">Mob: +237</FONT><FONT FACE="Arial"> </FONT><FO
+	NT COLOR="#000000" SIZE=1 FACE="Arial">77 20 26 63</FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">flore_service@yahoo.fr &lt\;<A
+	 HREF="mailto:floreservice@yahoo.fr">mailto:floreservice@yahoo.fr</A>&gt\;
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">flores
+	ervices@yahoo.fr &lt\;<A HREF="mailto:floreservices@yahoo.fr">mailto:flore
+	services@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"
+	><FONT FACE="Arial">        </FONT><FONT COLOR="#000000" SIZE=1 FAC
+	E="Arial">Tél. : (+237) 33 40 22 69 / 77 20 26 63 / 77 28 60 36</FONT></S
+	PAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><FONT COLOR="#000000" S
+	IZE=1 FACE="Arial">Fax. : (+237) 33 40 22 69      </FONT><BR>\n<B></
+	B><B><FONT COLOR="#003399" SIZE=2 FACE="Arial">Additional information :</F
+	ONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1C4076"
+	 SIZE=1 FACE="Arial">Status :</FONT></B><FONT COLOR="#000000" SIZE=1 FACE=
+	"Arial"> SARL</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT CO
+	LOR="#1C4076" SIZE=1 FACE="Arial">Professional Category :</FONT></B><FONT 
+	COLOR="#000000" SIZE=1 FACE="Arial"> ReprÃ©sentation</FONT></SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1C4076" SIZE=1 FACE="Arial"
+	>Creation Date :</FONT></B><FONT COLOR="#000000" SIZE=1 FACE="Arial"> 199
+	5</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1C4076"
+	 SIZE=1 FACE="Arial">Major brands distributed :</FONT></B><FONT COLOR="#00
+	0000" SIZE=1 FACE="Arial"> ELYCLEAN</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><B><FONT COLOR="#1C4076" SIZE=1 FACE="Arial">Which cities?</FON
+	T></B><FONT COLOR="#000000" SIZE=1 FACE="Arial"> Douala - YaoundÃ© - Ga
+	roua</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1C40
+	76" SIZE=1 FACE="Arial">Major suppliers :</FONT></B><FONT COLOR="#000000" 
+	SIZE=1 FACE="Arial"> ELYSEE GMBH</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LA
+	NG="es"><B><FONT COLOR="#1C4076" SIZE=1 FACE="Arial">Blanket professional 
+	:</FONT></B><FONT COLOR="#000000" SIZE=1 FACE="Arial"> Sous RÃ©gion</FO
+	NT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1C4076" SIZE
+	=1 FACE="Arial">Staff :</FONT></B><FONT COLOR="#000000" SIZE=1 FACE="Arial
+	"> de 101 Ã  500</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FO
+	NT COLOR="#1C4076" SIZE=1 FACE="Arial">Annual turnover :</FONT></B><FONT C
+	OLOR="#000000" SIZE=1 FACE="Arial"> 350 000 000 FCA</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">&lt\;<A HREF="http://www.imp
+	orters-exporters-directory.com/index.php?page=entreprise&id=68674">http://
+	www.importers-exporters-directory.com/index.php?page=entreprise&id=68674</
+	A>&gt\;<BR>\n</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="
+	Calibri">01/08/12 mandamos catálogo x email.</FONT></SPAN></P>\n\n</BODY>
+	\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ABS Sarl\n\n3866\nDOUALA\n\n +237 33429199\n\nDESCRIPTION :\n\n
+	               \nMAIN ACTIVITIES :\n\n*       Cleaning & hygiene products 
+	           \n\n\n
+DTEND;TZID="Romance Standard Time":20120801T163000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120801T160000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ABS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000E33698A1AED601000000000000000
+	01000000010BD6084B264034FAC240120DB2EFD53
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">ABS Sarl</FONT></B></SPAN></P>\n\n<P DIR=LTR><S
+	PAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">3866<BR>\nDOUALA</
+	FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><STRIKE><FONT COLOR="#00000
+	0" SIZE=1 FACE="Arial"> +237 33429199</FONT></STRIKE></SPAN></P>\n\n<P DI
+	R=LTR><SPAN LANG="es"><B><FONT COLOR="#003399" SIZE=2 FACE="Arial">DESCRIP
+	TION :</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Ari
+	al">               <BR>\n</FONT><B><FONT COLOR="#003399" SIZ
+	E=2 FACE="Arial">MAIN ACTIVITIES :</FONT></B></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Symbol">&#183\;</FONT><FON
+	T COLOR="#000000" SIZE=2 FACE="Courier New">      </FONT><FONT FACE=
+	"Arial"> </FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">Cleaning &amp\; 
+	hygiene products    </FONT><FONT FACE="Arial">        <BR>\n</F
+	ONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:CSC\n\n2208\nDOUALA\n\n +237 33425287\n\nDESCRIPTION :\n\nMme. 
+	Nken\n\nLomgp2000@yahoo.fr <mailto:Lomgp2000@yahoo.fr>\n\n               \
+	nMAIN ACTIVITIES :\n\n*       Cleaning & hygiene products. Empresa de limp
+	ieza\n\n03/08 mandamos catálogo.               \n\n\n
+DTEND;TZID="Romance Standard Time":20120802T083000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T080000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CSC_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000002E4298A1AED601000000000000000
+	0100000008525D1D4197E6B47B5DE2B9D2542833E
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">CSC</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">2208<BR>\nDOUALA</FONT>
+	</SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FAC
+	E="Arial"> +237 33425287</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<B><FONT COLOR="#003399" SIZE=2 FACE="Arial">DESCRIPTION :</FONT></B></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Ar
+	ial">Mme. Nken</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE=
+	"Arial">Lomgp2000@yahoo.fr &lt\;<A HREF="mailto:Lomgp2000@yahoo.fr">mailto
+	:Lomgp2000@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><FONT FACE="Arial">               <BR>\n</FONT><B><FONT C
+	OLOR="#003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</FONT></B></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Symbol">
+	&#183\;</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">      
+	</FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial
+	">Cleaning &amp\; hygiene products. Empresa de limpieza</FONT></SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">03
+	/08 mandamos catálogo.</FONT><FONT FACE="Arial">             
+	  <BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:CHS (Camerounaise d'HygiÃ¨ne et de Services)\n\n3565\nDOUALA\
+	n\n +237 33420892\n\nDESCRIPTION :\n\n               \nMAIN ACTIVITIES :\n
+	\n*       Cleaning & hygiene products            \n\n\n
+DTEND;TZID="Romance Standard Time":20120802T083000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T080000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CHS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000085498A1AED601000000000000000
+	010000000AE4184726891544688CC33F7EBA9D238
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">CHS (Camerounaise d'HygiÃ¨ne et de Services)<
+	/FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" 
+	SIZE=1 FACE="Arial">3565<BR>\nDOUALA</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><STRIKE><FONT COLOR="#000000" SIZE=1 FACE="Arial"> +237 334208
+	92</FONT></STRIKE></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR
+	="#003399" SIZE=2 FACE="Arial">DESCRIPTION :</FONT></B></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Arial">               <BR
+	>\n</FONT><B><FONT COLOR="#003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</
+	FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" S
+	IZE=2 FACE="Symbol">&#183\;</FONT><FONT COLOR="#000000" SIZE=2 FACE="Couri
+	er New">      </FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#000000
+	" SIZE=1 FACE="Arial">Cleaning &amp\; hygiene products    </FONT><FONT
+	 FACE="Arial">        <BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Camerounaise Thermique Industrielle (CTI)\n\n5859\nDOUALA\n\n +
+	23733409725\n\nDESCRIPTION :\n\n               \nMAIN ACTIVITIES :\n\n*   
+	    Cleaning & hygiene products            \n\n\n
+DTEND;TZID="Romance Standard Time":20120802T093000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T090000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CTI_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000F96D98A1AED601000000000000000
+	01000000093B0AC9E7F35D1468211CA0249BAE2EC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">Camerounaise Thermique Industrielle (CTI)</FONT
+	></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=
+	1 FACE="Arial">5859<BR>\nDOUALA</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><STRIKE><FONT COLOR="#000000" SIZE=1 FACE="Arial"> +23733409725</FO
+	NT></STRIKE></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#003
+	399" SIZE=2 FACE="Arial">DESCRIPTION :</FONT></B></SPAN></P>\n\n<P DIR=LTR
+	><SPAN LANG="es"><FONT FACE="Arial">               <BR>\n</F
+	ONT><B><FONT COLOR="#003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</FONT><
+	/B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 
+	FACE="Symbol">&#183\;</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New
+	">      </FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#000000" SIZE
+	=1 FACE="Arial">Cleaning &amp\; hygiene products    </FONT><FONT FACE=
+	"Arial">        <BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Bocom International\n\n9546\nDOUALA\n\n +237 33391616\n\nDESCRI
+	PTION :\n\n               \nMAIN ACTIVITIES :\n\n*       Cleaning & hygien
+	e products            \n\n\n
+DTEND;TZID="Romance Standard Time":20120802T083000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T080000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:BOCOM INTERNATIONAL
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000927998A1AED601000000000000000
+	0100000007F0E899A284C88469BA455F3825967B0
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">Bocom International</FONT></B></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">9546<BR
+	>\nDOUALA</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><STRIKE><FONT CO
+	LOR="#000000" SIZE=1 FACE="Arial"> +237 33391616</FONT></STRIKE></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#003399" SIZE=2 FACE="Ari
+	al">DESCRIPTION :</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FON
+	T FACE="Arial">               <BR>\n</FONT><B><FONT COLOR="#
+	003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</FONT></B></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Symbol">&#183\;
+	</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">      </FONT>
+	<FONT FACE="Arial"> </FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">Clean
+	ing &amp\; hygiene products    </FONT><FONT FACE="Arial">       
+	 <BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Cassel Express Clean\n\n\nYAOUND?\n\n \n\nDESCRIPTION :\n\n    
+	    Tel. : (+) 22219896\n\nFax. : (+)\n\n       \nMAIN ACTIVITIES :\n\n*  
+	     Cleaning & hygiene products            \n\n\n
+DTEND;TZID="Romance Standard Time":20120802T163000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120802T160000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CASSEL EXPRESS CLEAN_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000008E8498A1AED601000000000000000
+	01000000080494EA5A79B1F4AB805C749F354BF84
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">Cassel Express Clean</FONT></B></SPAN></P>\n<BR
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">
+	YAOUND?</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#0000
+	00" SIZE=1 FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"
+	><B><FONT COLOR="#003399" SIZE=2 FACE="Arial">DESCRIPTION :</FONT></B></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">        </
+	FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">Tel. : (+) 22219896</FONT><
+	/SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><FONT COLOR="#000000"
+	 SIZE=1 FACE="Arial">Fax. : (+)</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGH
+	T><SPAN LANG="es"><FONT FACE="Arial">       <BR>\n</FONT><B><FONT C
+	OLOR="#003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</FONT></B></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="Symbol">
+	&#183\;</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">      
+	</FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial
+	">Cleaning &amp\; hygiene products    </FONT><FONT FACE="Arial">   
+	     <BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Mister Clean Plus\n\n9\nDOUALA\n\n \n\nDESCRIPTION :\n\nMr. End
+	ema\n\nMr. Yudom (achats)\n\nMisterclean87@gmail.com <mailto:Misterclean87
+	@gmail.com>\n\nngomback@yahoo.fr <mailto:ngomback@yahoo.fr>\n\ndistribuido
+	r de productos profesionales. Compra de Prodim Francia a través de Camcie
+	 (importador de Johnson diversey a Camerún).\n\n        Tel. : (+) 334290
+	54\n\nFax. : (+)\n\n       \nMAIN ACTIVITIES :\n\n \n\n*       Cleaning & 
+	hygiene products            \n01/08/12 mandamos catálogo x email.\n\n03/0
+	8 catálogo recibido. Llamar lunes-martes \n\nNous accusons réception de 
+	votre offre que notre service d'exploitation étudiera et transmettra au P
+	résident M. NDEMA Pierre avec leur différentes remarques car comme vous 
+	le savez nous avons plusieurs offres et travaillons déjà avec des fourni
+	sseurs. nous apprécierons votre matériel et aurions souhaité avoir ce c
+	atalogue avec des prix pour une meilleure étude.\n\nsuite à votre appel\
+	, nous vous recommandons de nous joindre le mardi entre 8h00 et 10h00 et n
+	on le lundi. Pour nous permettre d'apprécier au mieux vos produits.\n\nSu
+	r ce\, cordiales salutations.\n\n\nSophie NGO MBACK\n\nAssistante de Direc
+	tion\n\nngomback@yahoo.fr <mailto:ngomback@yahoo.fr>\n\n07/08/12 mandamos 
+	precios. Recibido\n\n04/09/12 sohpie retomará el tema con Sr. Yudom y nos
+	 pasará un email.\n\n06/09/12 llamará si les interesa.\n\n
+DTEND;TZID="Romance Standard Time":20120906T093000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120906T090000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:MISTER CLEAN_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000E69298A1AED601000000000000000
+	010000000F0909768E27B33488DA7867BD26304B2
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#0
+	03399" SIZE=2 FACE="Arial">Mister Clean Plus</FONT></B></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Arial">9<BR>\nDO
+	UALA</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000"
+	 SIZE=1 FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B
+	><FONT COLOR="#003399" SIZE=2 FACE="Arial">DESCRIPTION :</FONT></B></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=1 FACE="Aria
+	l">Mr. Endema</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR=
+	"#000000" SIZE=1 FACE="Arial">Mr. Yudom (achats)</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Arial">Misterclean87@gmail.com &lt\;<A 
+	HREF="mailto:Misterclean87@gmail.com">mailto:Misterclean87@gmail.com</A>&g
+	t\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">ngo
+	mback@yahoo.fr &lt\;<A HREF="mailto:ngomback@yahoo.fr">mailto:ngomback@yah
+	oo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE=
+	"Consolas">distribuidor de productos profesionales. Compra de Prodim Franc
+	ia a través de Camcie (importador de Johnson diversey a Camerún).</FONT>
+	</SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">      
+	  </FONT><FONT COLOR="#000000" SIZE=1 FACE="Arial">Tel. : (+) 33429054</F
+	ONT></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><FONT COLOR="#00
+	0000" SIZE=1 FACE="Arial">Fax. : (+)</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN
+	=RIGHT><SPAN LANG="es"><FONT FACE="Arial">       <BR>\n</FONT><B><F
+	ONT COLOR="#003399" SIZE=2 FACE="Arial">MAIN ACTIVITIES :</FONT></B></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT FACE="Arial"> </FONT></B></S
+	PAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#000000" SIZE=2 FACE="
+	Symbol">&#183\;</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">  
+	    </FONT><FONT FACE="Arial"> </FONT><FONT COLOR="#000000" SIZE=1 FAC
+	E="Arial">Cleaning &amp\; hygiene products    </FONT><FONT FACE="Arial
+	">        <BR>\n</FONT><FONT FACE="Calibri">01/08/12 mandamos catá
+	logo x email.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="
+	Calibri">03/08 catálogo recibido. Llamar lunes-martes</FONT> </SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Consolas">Nous accusons récepti
+	on de votre offre que notre service d'exploitation étudiera et transmettr
+	a au Président M. NDEMA Pierre avec leur différentes remarques car comme
+	 vous le savez nous avons plusieurs offres et travaillons déjà avec des 
+	fournisseurs. nous apprécierons votre matériel et aurions souhaité avoi
+	r ce catalogue avec des prix pour une meilleure étude.</FONT></SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Consolas">suite à votre appel\,
+	 nous vous recommandons de nous joindre le mardi entre 8h00 et 10h00 et no
+	n le lundi.</FONT><FONT FACE="Arial"></FONT> <FONT FACE="Consolas">Pour no
+	us permettre d'apprécier au mieux vos produits.</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Consolas">Sur ce\, cordiales salutation
+	s.</FONT></SPAN></P>\n<BR>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Conso
+	las">Sophie NGO MBACK</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FON
+	T FACE="Consolas">Assistante de Direction</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT FACE="Arial">ngomback@yahoo.fr &lt\;<A HREF="mailto:
+	ngomback@yahoo.fr">mailto:ngomback@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">07/08/12 mandamos precios.
+	 Recibido</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Cali
+	bri">04/09/12 sohpie retomará el tema con Sr. Yudom y nos pasará un emai
+	l.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">06
+	/09/12 llamará si les interesa.</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:ADER est une société du groupe SSI - Z.I. de Bonabéri\nBP 23
+	68 Douala Cameroun. Tél : +237 33 39.81.07 Fax :+237 33 39.16.39\nAgence 
+	de Yaoundé : Tél :+237 22 23 59 04 Fax:+237 22 22 34 23\nEmail : info@ad
+	ercam.com <mailto:info@adercam.com>  \n\nndengue_mole@adercam.com <mailto:
+	ndengue_mole@adercam.com>\n\nndenge_mole@adercam.com <mailto:ndenge_mole@a
+	dercam.com>\n\n+237 33 399116\n\nMr. Mole\n\nCes matières premières chim
+	iques concernent presque tous les secteurs de l'économie camerounaise : t
+	raitement des eaux\, savons et détergents\, agro-alimentaire\, textile\, 
+	plastique\, peinture\, cosmétique\, acier\, eaux de chaudière\, etc...\n
+	\nADER dispose de gammes complètes\, variées\, et évolutives de produit
+	s chimiques pour les industries. Ces gammes vont de commodités vendues pa
+	r milliers de tonnes (telles que les chlore-alcalis\, les acides minéraux
+	…)  jusqu'à des spécialités vendues par kilos.\nNotre logique est tou
+	jours de proposer le “ package ” le plus complet possible à chacun de
+	 nos clients.\n\nAu total\, ce sont plus de 400 références permanentes q
+	ue nous sommes à même de vous proposer.\n\n06/08 mandamos email con cat
+	álogo. Devuelto.\n\n07/08 devuelto\n\n
+DTEND;TZID="Romance Standard Time":20120806T120000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120806T113000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ADER_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000319E98A1AED601000000000000000
+	010000000FCE9232B8236814EB985DB61AE8311E4
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE=
+	"Arial">ADER est une société du groupe SSI - Z.I. de Bonabéri<BR>\nBP 2
+	368 Douala Cameroun. Tél : +237 33 39.81.07 Fax :+237 33 39.16.39<BR>\nAg
+	ence de Yaoundé : Tél :+237 22 23 59 04 Fax:+237 22 22 34 23<BR>\nEmail 
+	:</FONT><FONT FACE="Arial"></FONT> <FONT FACE="Arial">info@adercam.com &lt
+	\;<A HREF="mailto:info@adercam.com">mailto:info@adercam.com</A>&gt\;</FONT
+	><FONT SIZE=1 FACE="Arial">  </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT FACE="Arial">ndengue_mole@adercam.com &lt\;<A HREF="mailto:nden
+	gue_mole@adercam.com">mailto:ndengue_mole@adercam.com</A>&gt\;</FONT></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">ndenge_mole@aderca
+	m.com &lt\;<A HREF="mailto:ndenge_mole@adercam.com">mailto:ndenge_mole@ade
+	rcam.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SI
+	ZE=1 FACE="Arial">+237 33 399116</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT SIZE=1 FACE="Arial">Mr. Mole</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT SIZE=2 FACE="Arial">Ces matières premières chimiqu
+	es concernent presque tous les secteurs de l'économie camerounaise : trai
+	tement des eaux\, savons et détergents\, agro-alimentaire\, textile\, pla
+	stique\, peinture\, cosmétique\, acier\, eaux de chaudière\, etc...<BR>\
+	n<BR>\nADER dispose de gammes complètes\, variées\, et évolutives de pr
+	oduits chimiques pour les industries. Ces gammes vont de commodités vendu
+	es par milliers de tonnes (telles que les chlore-alcalis\, les acides min
+	éraux…)  jusqu'à des spécialités vendues par kilos.<BR>\nNotre logi
+	que est toujours de proposer le “ package ” le plus complet possible 
+	à chacun de nos clients.<BR>\n<BR>\nAu total\, ce sont plus de</FONT><FON
+	T FACE="Arial"></FONT> <FONT SIZE=2 FACE="Arial">400 références permanen
+	tes que nous sommes à même de vous proposer.</FONT></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="es"><FONT SIZE=2 FACE="Arial">06/08 mandamos email con ca
+	tálogo. Devuelto.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT S
+	IZE=2 FACE="Arial">07/08 devuelto</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Sté Mahima SARL <http://www.cameroonphonebook.com/details/es/y
+	ellow/Cammeroun/SUPERMARCHE/cammeroun_88559/St%C3%A9+Mahima+SARL> \n\nacti
+	vidad : Supermarchés\n\nAvenue Ahmadou Ahidjo\, BP 15430\n\nCiudad : Doua
+	la\n\nPaís : Camerùn\n\n+237 33 43 44 87\n\nCompras +237 33426182\n\nMr.
+	 Manis\n\ncontact@stemahima.com <mailto:contact@stemahima.com>\n\n03/08 ma
+	ndamos catálogo.\n\n04/09 no les interesa.\n\n
+DTEND;TZID="Romance Standard Time":20120904T123000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120904T120000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:STÉ MAHIMA_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000B8A898A1AED601000000000000000
+	010000000280CCA21DF0F4C4AB970C1E42045535B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>Sté Mahima SARL &lt\;<A HREF="http://www.cameroonphonebook.com/details/e
+	s/yellow/Cammeroun/SUPERMARCHE/cammeroun_88559/St%C3%A9+Mahima+SARL">http:
+	//www.cameroonphonebook.com/details/es/yellow/Cammeroun/SUPERMARCHE/cammer
+	oun_88559/St%C3%A9+Mahima+SARL</A>&gt\;<B></B></FONT><B><FONT FACE="Arial"
+	></FONT></B> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="
+	Arial">actividad : Supermarchés</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT SIZE=1 FACE="Arial">Avenue Ahmadou Ahidjo\, BP 15430</FONT></
+	SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Ciudad :
+	 Douala</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE=
+	"Arial">País : Camerùn</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT SIZE=1 FACE="Arial">+237</FONT><FONT FACE="Arial"></FONT> <FONT SIZE=
+	1 FACE="Arial">33 43 44 87</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"
+	><FONT SIZE=1 FACE="Arial">Compras +237 33426182</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Mr. Manis</FONT></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">contact@stemahima.com 
+	&lt\;<A HREF="mailto:contact@stemahima.com">mailto:contact@stemahima.com</
+	A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE=
+	"Arial">03/08 mandamos catálogo.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LA
+	NG="es"><FONT SIZE=1 FACE="Arial">04/09 no les interesa.</FONT></SPAN></P>
+	\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180913Z
+DESCRIPTION:Principio del formulario\n\nFinal del formulario\n\nRayco Sarl 
+	<http://www.cameroonphonebook.com/details/es/yellow/Cammeroun/SUPERMARCHE/
+	cammeroun_89103/Rayco+Sarl> \n\nactividad : Supermarchés\n\nYaoundé\, BP
+	 4252\n\nCiudad : Yaounde\n\n+237 22 21 38 35\n\nFax: +237 \n\nMr. Willy\n
+	\nzekeuwilly@yahoo.fr <mailto:zekeuwilly@yahoo.fr>\n\nzikeuwilly@yahoo.fr 
+	<mailto:zikeuwilly@yahoo.fr>\n\n08/08 visitarán nuestra web y nos pasará
+	 un email.\n\n04/09 reenviamos.\n\n
+DTEND;TZID="Romance Standard Time":20120926T163000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120926T160000
+LAST-MODIFIED:20201030T084652Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:RAYCO_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000D4C098A1AED601000000000000000
+	01000000068BB34C304CC354EA80A5A207D099A59
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="es"><FONT
+	 SIZE=1 FACE="Arial">Principio del formulario</FONT></SPAN></P>\n\n<P DIR=
+	LTR ALIGN=CENTER><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Final del formu
+	lario</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">R
+	ayco Sarl &lt\;<A HREF="http://www.cameroonphonebook.com/details/es/yellow
+	/Cammeroun/SUPERMARCHE/cammeroun_89103/Rayco+Sarl">http://www.cameroonphon
+	ebook.com/details/es/yellow/Cammeroun/SUPERMARCHE/cammeroun_89103/Rayco+Sa
+	rl</A>&gt\;<B></B></FONT><B><FONT FACE="Arial"></FONT></B> </SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">actividad : Supermarc
+	hés</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Ar
+	ial">Yaoundé\, BP 4252</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT SIZE=1 FACE="Arial">Ciudad : Yaounde</FONT></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><FONT SIZE=1 FACE="Arial">+237</FONT><FONT FACE="Arial"></F
+	ONT> <FONT SIZE=1 FACE="Arial">22 21 38 35</FONT></SPAN></P>\n\n<P DIR=LTR
+	><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Fax: +237</FONT><FONT FACE="Ari
+	al"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri"
+	>Mr. Willy</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Ari
+	al">zekeuwilly@yahoo.fr &lt\;<A HREF="mailto:zekeuwilly@yahoo.fr">mailto:z
+	ekeuwilly@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es
+	"><FONT FACE="Arial">zikeuwilly@yahoo.fr &lt\;<A HREF="mailto:zikeuwilly@y
+	ahoo.fr">mailto:zikeuwilly@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=L
+	TR><SPAN LANG="es"><FONT FACE="Calibri">08/08 visitarán nuestra web y nos
+	 pasará un email.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Calibri">04/09 reenviamos.</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:NOSA SARL\n\nactividad : Savonnerie / Savons (production\, dist
+	ribution) \n\nBP 5524 \n\nárea : Yaounde\n\nPaís : Camerùn\n\n \n\nTél
+	. : 22 31 28 68 \n\nTél. : 22 31 13 79 \n\n \n\nMr. Paul\n\n+23799080384\
+	n\nsavonosa@yahoo.fr <mailto:savonosa@yahoo.fr> \n\n03/08 MANDAMOS EMAIL C
+	ON CATÁLOGO.\n\n05/09 nos llamará. Dejamos telf.\n\n
+DTEND;TZID="Romance Standard Time":20120906T093000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120906T090000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:NOSA_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000082CB98A1AED601000000000000000
+	010000000A36BA472AC6BBF46BE79A3BE3D691328
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT SIZE=5 FA
+	CE="Arial">NOSA SARL</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT SIZE=1 FACE="Arial">actividad :</FONT><FONT FACE="Arial"> Savonnerie 
+	/ Savons (production\, distribution)</FONT><FONT SIZE=1 FACE="Arial"></FON
+	T> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">BP 
+	5524</FONT><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT SIZE=1 FACE="Arial">área :</FONT><FONT FACE="Arial"> </FONT><
+	FONT SIZE=1 FACE="Arial">Yaounde</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT SIZE=1 FACE="Arial">País :</FONT><FONT FACE="Arial"> </FONT>
+	<FONT SIZE=1 FACE="Arial">Camerùn</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT SIZE=1 FACE="Arial">Tél. : 22 31 28 68 </FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Tél. : 22 31 13 79 
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FO
+	NT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Mr.
+	 Paul</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="A
+	rial">+23799080384</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Arial">savonosa@yahoo.fr &lt\;<A HREF="mailto:savonosa@yahoo.fr">mail
+	to:savonosa@yahoo.fr</A>&gt\;</FONT><FONT SIZE=1 FACE="Arial"></FONT> </SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">03/08 MAND
+	AMOS EMAIL CON CATÁLOGO.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<FONT SIZE=1 FACE="Arial">05/09 nos llamará. Dejamos telf.</FONT></SPAN><
+	/P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION: <http://www.cameroonphonebook.com/images/ads/Cammeroun/630_420
+	_Doual_C7.jpg> \n\n03/08 MANDAMOS sms PARA QUE NOS DEN SU EMAIL.\n\nPrinci
+	pio del formulario\n\nFinal del formulario\n\nBUSINESS DISTRIBUTION <http:
+	//www.cameroonphonebook.com/details/es/yellow/Cammeroun/ENTRETIEN/cammerou
+	n_179418/BUSINESS+DISTRIBUTION+AND+SERVICES> \n\nMme. “Adessone”\n\nri
+	bambelles@yahoo.fr <mailto:ribambelles@yahoo.fr>\n\n05/09 mandamos catálo
+	go. Devuelto. Pedimos correcto x sms.\n\n
+DTEND;TZID="Romance Standard Time":20120806T170000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120806T163000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:BUSINESS DISTRIBUTION_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000009BEE98A1AED601000000000000000
+	0100000009B161497D385DB439E8C86749B06C003
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>&nbsp\;&lt\;<A HREF="http://www.cameroonphonebook.com/images/ads/Cammerou
+	n/630_420_Doual_C7.jpg">http://www.cameroonphonebook.com/images/ads/Cammer
+	oun/630_420_Doual_C7.jpg</A>&gt\; </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT SIZE=1 FACE="Arial">03/08 MANDAMOS sms PARA QUE NOS DEN SU
+	 EMAIL.</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=CENTER><SPAN LANG="es"><FONT
+	 SIZE=1 FACE="Arial">Principio del formulario</FONT></SPAN></P>\n\n<P DIR=
+	LTR ALIGN=CENTER><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Final del formu
+	lario</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">B
+	USINESS DISTRIBUTION &lt\;<A HREF="http://www.cameroonphonebook.com/detail
+	s/es/yellow/Cammeroun/ENTRETIEN/cammeroun_179418/BUSINESS+DISTRIBUTION+AND
+	+SERVICES">http://www.cameroonphonebook.com/details/es/yellow/Cammeroun/EN
+	TRETIEN/cammeroun_179418/BUSINESS+DISTRIBUTION+AND+SERVICES</A>&gt\;<B></B
+	> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">Mm
+	e.</FONT><FONT FACE="Arial"></FONT> <FONT FACE="Calibri">“Adessone”</F
+	ONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">ribambell
+	es@yahoo.fr &lt\;<A HREF="mailto:ribambelles@yahoo.fr">mailto:ribambelles@
+	yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FA
+	CE="Calibri">05/09 mandamos catálogo. Devuelto. Pedimos correcto x sms.</
+	FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:CEP SEIGNEURIE (COMPAGNIE ÉQUATORIALE DES PEINTURES)\n\nactivi
+	dad : Peinture (entreprises\, fabrication\, distribution\, vente) \n\nZone
+	 Industrielle Magzi - Bassa\nBP 1028 \n\nárea : Douala\n\nPaís : Camerù
+	n\n\n \n\nTél. : 33 37 29 83 \n\nFax. : 33 37 88 98 \n\nTél. : 33 37 59 
+	23 \n\nOk. Tél. : 33 37 69 88 \n\n \n\ncep@ppg.cm <mailto:cep@ppg.cm> \n\
+	nSYLVIE.BATEUKY@PPG.CM <mailto:SYVIE.BATEUKY@PPG.CM>\n\nSylvie.bateuki@ppg
+	.cm <mailto:Sylvie.bateuki@ppg.cm>\n\n03/08 Mandamos catálogo. leido 07/0
+	8\n\n06/08 reenviamos a Sylvie. \n\n07/08/12 recibido por Mr. Mgi. Nos res
+	ponderán por email.\n\n
+DTEND;TZID="Romance Standard Time":20120803T170000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T163000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CEP_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000052FE98A1AED601000000000000000
+	010000000B8835DA9A9C64A46875A58CF8BD7D30A
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT SIZE=5 FA
+	CE="Arial">CEP SEIGNEURIE (COMPAGNIE ÉQUATORIALE DES PEINTURES)</FONT></B
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">activ
+	idad :</FONT><FONT FACE="Arial"> Peinture (entreprises\, fabrication\, dis
+	tribution\, vente)</FONT><FONT SIZE=1 FACE="Arial"></FONT> </SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Zone Industrielle Mag
+	zi - Bassa</FONT><BR>\n<FONT SIZE=1 FACE="Arial">BP 1028</FONT> </SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">área :</FONT><F
+	ONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Arial">Douala</FONT></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">País :</FONT><F
+	ONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Arial">Camerùn</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT></SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Tél. : 33 37 29 8
+	3 </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Ari
+	al">Fax. : 33 37 88 98 </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT SIZE=1 FACE="Arial">Tél. : 33 37 59 23 </FONT></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Ok. Tél. : 33 37 69 88 </
+	FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">cep@ppg.cm &
+	lt\;<A HREF="mailto:cep@ppg.cm">mailto:cep@ppg.cm</A>&gt\;</FONT><FONT SIZ
+	E=1 FACE="Arial"></FONT> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Arial">SYLVIE.BATEUKY@PPG.CM &lt\;<A HREF="mailto:SYVIE.BATEUKY@PPG.C
+	M">mailto:SYVIE.BATEUKY@PPG.CM</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><S
+	PAN LANG="es"><FONT FACE="Arial">Sylvie.bateuki@ppg.cm &lt\;<A HREF="mailt
+	o:Sylvie.bateuki@ppg.cm">mailto:Sylvie.bateuki@ppg.cm</A>&gt\;</FONT></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">03/08 Mandamos c
+	atálogo. leido</FONT><FONT FACE="Arial"></FONT> <FONT FACE="Calibri">07/0
+	8</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">06/
+	08 reenviamos a Sylvie.</FONT><FONT FACE="Arial"> </FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">07/08/12 recibido por Mr.</F
+	ONT><FONT FACE="Arial"></FONT> <FONT FACE="Calibri">Mgi. Nos responderán 
+	por email.</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:tekambi@yahoo.fr <mailto:tekambi@yahoo.fr>\n\n<http://www.solut
+	ionshotelsrestos.com/>\n\n03/08 MANDAMOS CATÁLOGO X EMAIL\n\n
+DTEND;TZID="Romance Standard Time":20120803T173000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T170000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:SOLUTIONS HOTELS RESTOS_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000350C99A1AED601000000000000000
+	010000000822FBB567EC6E34C8264C90B8F7C4FAC
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>tekambi@yahoo.fr &lt\;<A HREF="mailto:tekambi@yahoo.fr">mailto:tekambi@ya
+	hoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial">&lt\;<A HREF="http://www.solutionshotelsrestos.com/">http://www.s
+	olutionshotelsrestos.com/</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Calibri">03/08 MANDAMOS CATÁLOGO X EMAIL</FONT></SPA
+	N></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:GLOMATE\n\n AKWA - DOUALA - CAMEROON\n\n (237) 33 08 92 63 & 77
+	 76 68 14\n\n (237) 33 08 92 63\n\n glomate.sarl@yahoo.fr <mailto:glomate.
+	sarl@yahoo.fr>\n\n www.glomate.be <http://www.glomate.be>\n\nIMPORT-EXPORT
+	\n\nglomate.sarl@yahoo.fr <mailto:glomate.sarl@yahoo.fr>\n\n03/08 MANDAMOS
+	 CATÁLOGO X EMAIL\n\n
+DTEND;TZID="Romance Standard Time":20120803T173000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T170000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:GLOMATE_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000C91999A1AED601000000000000000
+	01000000088BEB3612E29A04F9DB2BD4E143C585A
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">GLOMATE</FONT></B></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="
+	Lucida Sans Unicode">AKWA - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida 
+	Sans Unicode">(237) 33 08 92 63 &amp\; 77 76 68 14</FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lu
+	cida Sans Unicode">(237) 33 08 92 63</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><FONT FACE="Arial"> glomate.sarl@yahoo.fr &lt\;<A HREF="mailto
+	:glomate.sarl@yahoo.fr">mailto:glomate.sarl@yahoo.fr</A>&gt\;</FONT></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> www.glomate.be &l
+	t\;<A HREF="http://www.glomate.be">http://www.glomate.be</A>&gt\;</FONT></
+	SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">IMPORT-EXPORT
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">glomat
+	e.sarl@yahoo.fr &lt\;<A HREF="mailto:glomate.sarl@yahoo.fr">mailto:glomate
+	.sarl@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT FACE="Calibri">03/08 MANDAMOS CATÁLOGO X EMAIL</FONT></SPAN></P>\n\n<
+	/BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:GROUPE ARNO\n\n BP. 664 - DOUALA - CAMEROON\n\n (237) 33 42 04 
+	28 & 33 42 25 57\n\n (237) 33 42 70 44\n\n ate@groupearno.com <mailto:ate@
+	groupearno.com>\n\n www.groupearno.com <http://www.groupearno.com>\n\nMr. 
+	Serge Takis\n\ncommercial@groupearno.com <mailto:commercial@groupearno.com
+	>\n\n\n03/08 MANDAMOS CATÁLOGO X EMAIL.\n\nVotre message a été remis au
+	 destinataire.\n\nEnvoyé par mon BlackBerry Wireless Handheld.\n\n06/08 r
+	eenviamos email a commercial@gruopearno.com <mailto:commercial@gruopearno.
+	com>\n\nRecibido x Serge Takis\n\n10/08 email recordatorio.\n\n24/02/14 ma
+	ndamos catálogo 2014\n\n
+DTEND;TZID="Romance Standard Time":20140226T110000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20140226T103000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:GROUPE ARNO_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000922A99A1AED601000000000000000
+	010000000C285481B9D967B4E8D8799FEDB10A0EA
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">GROUPE ARNO</FONT></B></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FA
+	CE="Lucida Sans Unicode">BP. 664 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="
+	Lucida Sans Unicode">(237) 33 42 04 28 &amp\; 33 42 25 57</FONT></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 F
+	ACE="Lucida Sans Unicode">(237) 33 42 70 44</FONT></SPAN></P>\n\n<P DIR=LT
+	R><SPAN LANG="es"><FONT FACE="Arial"> ate@groupearno.com &lt\;<A HREF="ma
+	ilto:ate@groupearno.com">mailto:ate@groupearno.com</A>&gt\;</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> www.groupearno.com 
+	&lt\;<A HREF="http://www.groupearno.com">http://www.groupearno.com</A>&gt\
+	;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Lucid
+	a Sans Unicode">Mr. Serge Takis</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT FACE="Arial">commercial@groupearno.com &lt\;<A HREF="mailto:co
+	mmercial@groupearno.com">mailto:commercial@groupearno.com</A>&gt\;</FONT><
+	/SPAN></P>\n<BR>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">03/08 
+	MANDAMOS CATÁLOGO X EMAIL.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es
+	"><FONT FACE="Consolas">Votre message a été remis au destinataire.</FONT
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Consolas">Envoyé p
+	ar mon BlackBerry Wireless Handheld.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><FONT FACE="Calibri">06/08 reenviamos email a</FONT><FONT FACE=
+	"Arial"> commercial@gruopearno.com &lt\;<A HREF="mailto:commercial@gruopea
+	rno.com">mailto:commercial@gruopearno.com</A>&gt\;</FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans
+	 Unicode">Recibido x Serge Takis</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">10/0
+	8 email recordatorio.</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es">
+	<B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">24/02/14 mandam
+	os catálogo 2014</FONT></B></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:SOCINT\n\n BP. 8160 - DOUALA - CAMEROON\n\n (237) 33 40 08 66\n
+	\n (237) 33 40 24 57\n\n socint@hotmail.com <mailto:socint@hotmail.com>\n\
+	n \n\nIMPORT EXPORT\n\nMr. Keot\n\n03/08 MANDAMOS EMAIL CON CATÁLOGO.\n\n
+	06/08 REENVIAMOS. Leido.\n\n08/08 reenviamos.\n\n
+DTEND;TZID="Romance Standard Time":20120809T113000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120809T110000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:SOCINT_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000413599A1AED601000000000000000
+	010000000A275156B3CD0FE459293CA8CD9CD8362
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">SOCINT</FONT></B></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="L
+	ucida Sans Unicode">BP. 8160 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Luci
+	da Sans Unicode">(237) 33 40 08 66</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicod
+	e">(237) 33 40 24 57</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT
+	 FACE="Arial"> socint@hotmail.com &lt\;<A HREF="mailto:socint@hotmail.com
+	">mailto:socint@hotmail.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><FONT FACE="Calibri"> </FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Calibri">IMPORT EXPORT</FONT></SPAN></P>\n\n<P DIR=LT
+	R><SPAN LANG="es"><FONT FACE="Calibri">Mr.</FONT><FONT FACE="Arial"></FONT
+	> <FONT FACE="Calibri">Keot</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es
+	"><FONT FACE="Calibri">03/08 MANDAMOS EMAIL CON CATÁLOGO.</FONT></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">06/08 REENVIAMOS.</F
+	ONT><FONT FACE="Arial"></FONT> <FONT FACE="Calibri">Leido.</FONT></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">08/08 reenviamos.</F
+	ONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:03/08 MANDAMOS EMAIL CON CATÁLOGO\n\n <http://en.wikipedia.org
+	/wiki/Cameroon> cameroon\n\nINDUSTRIAL CLEANING\n\nBERYO INTERNATIONAL\n\n
+	 BP. 11975 - DOUALA - CAMEROON\n\n (237) 33 43 27 63\n\n (237) 33 43 27 63
+	\n\n contact@beyointer.com <mailto:contact@beyointer.com>\n\nBOCOM INTERNA
+	TIONAL\n\n BP. 9546 - DOUALA - CAMEROON\n\n (237) 33 39 16 16\n\n (237) 33
+	 39 09 14\n\n bocominter2002@yahoo.fr <mailto:bocominter2002@yahoo.fr>\n\n
+	CAMEROUN FUTURE\n\n NOUVELLE RTE BONADIBONG - DOUALA - CAMEROON\n\n (237) 
+	33 21 76 15 & 75 13 74 80\n\n camerounfuture@yahoo.fr <mailto:camerounfutu
+	re@yahoo.fr>\n\nCLEAN UP\n\n RUE MERMOZ - DOUALA - CAMEROON\n\n (237) 77 6
+	3 50 09 & 22 60 97 03\n\n cleanupcmr@yahoo.fr <mailto:cleanupcmr@yahoo.fr>
+	\n\nFLORE SERVICES\n\n BP. 10114 - DOUALA - CAMEROON\n\n (237) 33 40 22 69
+	\n\n (237) 33 40 22 69\n\n floreservices@yahoo.fr <mailto:floreservices@ya
+	hoo.fr>\n\nFULL SERVICES INTERNATIONAL\n\n BP. 12493 - DOUALA - CAMEROON\n
+	\n (237) 33 43 44 96 & 99 84 60 24\n\nHYSACAM\n\n BP. 1420 - DOUALA - CAME
+	ROON\n\n (237) 33 37 44 14\n\n (237) 33 37 47 13\n\n hysacam_saca@yahoo.co
+	m <mailto:hysacam_saca@yahoo.com>\n\nJUMA PREMIUM CLEANERS\n\n BP. 1986 - 
+	DOUALA - CAMEROON\n\n (237) 33 19 64 91\n\n jumapremium@yahoo.com <mailto:
+	jumapremium@yahoo.com>\n\nNETMOCAM\n\n BP. 464 - DOUALA - CAMEROON\n\n (23
+	7) 33 42 66 56\n\n (237) 33 43 64 04\n\n netmocam@yahoo.fr <mailto:netmoca
+	m@yahoo.fr>\n\nSCHA\n\n BP. 4111 - DOUALA - CAMEROON\n\n (237) 33 42 49 47
+	\n\n (237) 33 42 25 85\n\n scha_douala@yahoo.fr <mailto:scha_douala@yahoo.
+	fr>\n\n
+DTEND;TZID="Romance Standard Time":20120803T180000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T173000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:EMPRESAS DE LIMPIEZA_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000009D4199A1AED601000000000000000
+	0100000009618492DB38DDB498E6AB16FE48FE905
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">03/08 MANDAMOS EMAIL CON CATÁLOGO</FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><FONT FACE="Arial">&nbsp\;&lt\;<A HREF="http://en.wikipedia.or
+	g/wiki/Cameroon">http://en.wikipedia.org/wiki/Cameroon</A>&gt\;<B> </B></
+	FONT><B><FONT COLOR="#000000" SIZE=5 FACE="Lucida Sans Unicode">cameroon</
+	FONT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><B><FONT CO
+	LOR="#333333" SIZE=1 FACE="Lucida Sans Unicode">INDUSTRIAL CLEANING</FONT>
+	</B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZ
+	E=1 FACE="Lucida Sans Unicode">BERYO INTERNATIONAL</FONT></B></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE
+	="Lucida Sans Unicode">BP. 11975 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="
+	Lucida Sans Unicode">(237) 33 43 27 63</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Un
+	icode">(237) 33 43 27 63</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT FACE="Arial"> contact@beyointer.com &lt\;<A HREF="mailto:contact@bey
+	ointer.com">mailto:contact@beyointer.com</A>&gt\;</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans 
+	Unicode">BOCOM INTERNATIONAL</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode"
+	>BP. 9546 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="
+	es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(2
+	37) 33 39 16 16</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 39 09 1
+	4</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> boc
+	ominter2002@yahoo.fr &lt\;<A HREF="mailto:bocominter2002@yahoo.fr">mailto:
+	bocominter2002@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">CAMEROUN
+	 FUTURE</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Ar
+	ial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">NOUVELLE RTE BONADIB
+	ONG - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33
+	 21 76 15 &amp\; 75 13 74 80</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><FONT FACE="Arial"> camerounfuture@yahoo.fr &lt\;<A HREF="mailto:camer
+	ounfuture@yahoo.fr">mailto:camerounfuture@yahoo.fr</A>&gt\;</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lu
+	cida Sans Unicode">CLEAN UP</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">
+	RUE MERMOZ - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(
+	237) 77 63 50 09 &amp\; 22 60 97 03</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT FACE="Arial"> cleanupcmr@yahoo.fr &lt\;<A HREF="mailto:cl
+	eanupcmr@yahoo.fr">mailto:cleanupcmr@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida 
+	Sans Unicode">FLORE SERVICES</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode"
+	>BP. 10114 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(
+	237) 33 40 22 69</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FAC
+	E="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 40 22 
+	69</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> fl
+	oreservices@yahoo.fr &lt\;<A HREF="mailto:floreservices@yahoo.fr">mailto:f
+	loreservices@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">FULL SERVI
+	CES INTERNATIONAL</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FON
+	T FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 12493 
+	- DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT 
+	FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 43 
+	44 96 &amp\; 99 84 60 24</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">HYSACAM</FONT></
+	B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><F
+	ONT SIZE=1 FACE="Lucida Sans Unicode">BP. 1420 - DOUALA - CAMEROON</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT
+	 SIZE=1 FACE="Lucida Sans Unicode">(237) 33 37 44 14</FONT></SPAN></P>\n\n
+	<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="
+	Lucida Sans Unicode">(237) 33 37 47 13</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT FACE="Arial"> hysacam_saca@yahoo.com &lt\;<A HREF="mai
+	lto:hysacam_saca@yahoo.com">mailto:hysacam_saca@yahoo.com</A>&gt\;</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 F
+	ACE="Lucida Sans Unicode">JUMA PREMIUM CLEANERS</FONT></B></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="L
+	ucida Sans Unicode">BP. 1986 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Luci
+	da Sans Unicode">(237) 33 19 64 91</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Arial"> jumapremium@yahoo.com &lt\;<A HREF="mailto:j
+	umapremium@yahoo.com">mailto:jumapremium@yahoo.com</A>&gt\;</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lu
+	cida Sans Unicode">NETMOCAM</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">
+	BP. 464 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es
+	"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237
+	) 33 42 66 56</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="
+	Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 43 64 04<
+	/FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> netmo
+	cam@yahoo.fr &lt\;<A HREF="mailto:netmocam@yahoo.fr">mailto:netmocam@yahoo
+	.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLO
+	R="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">SCHA</FONT></B></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE
+	="Lucida Sans Unicode">BP. 4111 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="L
+	ucida Sans Unicode">(237) 33 42 49 47</FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Uni
+	code">(237) 33 42 25 85</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT FACE="Arial"> scha_douala@yahoo.fr &lt\;<A HREF="mailto:scha_douala@y
+	ahoo.fr">mailto:scha_douala@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n</BODY>
+	\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:03/08 MANDAMOS CATÁLOGO X EMAIL\n\n <http://en.wikipedia.org/w
+	iki/Cameroon> cameroon\n\nPLASTIC PRODUCTS\n\nICRAFON\n\n BP. 2040 - DOUAL
+	A - CAMEROON\n\n (237) 33 37 04 07\n\n (237) 33 37 08 89\n\n rlamere@cfao.
+	com <mailto:rlamere@cfao.com>\n\nOK PLAST CAM\n\n BP. 3033 - DOUALA - CAME
+	ROON\n\n (237) 33 39 14 26\n\n (237) 33 39 14 25\n\n okplastcam@yahoo.fr <
+	mailto:okplastcam@yahoo.fr>\n\n
+DTEND;TZID="Romance Standard Time":20120803T180000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T173000
+LAST-MODIFIED:20201030T084653Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:PRODUCTOS DE PLÁSTICO_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000175299A1AED601000000000000000
+	0100000001606FB465434E94A881127E803F31458
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">03/08 MANDAMOS CATÁLOGO X EMAIL</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT FACE="Arial">&nbsp\;&lt\;<A HREF="http://en.wikipedia.org/
+	wiki/Cameroon">http://en.wikipedia.org/wiki/Cameroon</A>&gt\;<B> </B></FO
+	NT><B><FONT COLOR="#000000" SIZE=5 FACE="Lucida Sans Unicode">cameroon</FO
+	NT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><B><FONT COLO
+	R="#333333" SIZE=1 FACE="Lucida Sans Unicode">PLASTIC PRODUCTS</FONT></B><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 F
+	ACE="Lucida Sans Unicode">ICRAFON</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Uni
+	code">BP. 2040 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicod
+	e">(237) 33 37 04 07</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT
+	 FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 37
+	 08 89</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	 rlamere@cfao.com &lt\;<A HREF="mailto:rlamere@cfao.com">mailto:rlamere@c
+	fao.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT 
+	COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">OK PLAST CAM</FONT></B><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT
+	 SIZE=1 FACE="Lucida Sans Unicode">BP. 3033 - DOUALA - CAMEROON</FONT></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SI
+	ZE=1 FACE="Lucida Sans Unicode">(237) 33 39 14 26</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Luc
+	ida Sans Unicode">(237) 33 39 14 25</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT FACE="Arial"> okplastcam@yahoo.fr &lt\;<A HREF="mailto:ok
+	plastcam@yahoo.fr">mailto:okplastcam@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n
+	\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:03/08 MANDAMOS CATÁLOGO X EMAIL\n\n <http://en.wikipedia.org/w
+	iki/Cameroon> cameroon\n\nCENTRAL MERCHANDIZINGS\n\nAPEX CAMCI\n\n BP. 189
+	 - DOUALA - CAMEROON\n\n (237) 33 42 79 08\n\n (237) 33 42 71 93\n\n camci
+	@camci-cm.com <mailto:camci@camci-cm.com>\n\nAPPRO & SERVICES\n\n BP. 3670
+	 - DOUALA - CAMEROON\n\n (237) 33 02 10 65\n\n (237) 33 43 64 54\n\n appro
+	serv@yahoo.fr <mailto:approserv@yahoo.fr>\n\nATRAX\n\n BP. 12760 - DOUALA 
+	- CAMEROON\n\n (237) 99 88 12 20\n\n (237) 33 42 35 63\n\n dbkith2002@yaho
+	o.fr <mailto:dbkith2002@yahoo.fr>\n\nCWT GR. FADOUL\n\n BP. 4025 - DOUALA 
+	- CAMEROON\n\n (237) 77 93 33 84\n\n (237) 77 99 10 98\n\n cwt_dla@yahoo.f
+	r <mailto:cwt_dla@yahoo.fr>\n\nI3C\n\n BONAPRISO - DOUALA - CAMEROON\n\n (
+	237) 97 82 85 29\n\n m.bekir@i3c.com.tn <mailto:m.bekir@i3c.com.tn>\n\n ww
+	w.i3c.com.tn <http://www.i3c.com.tn>\n\nLAFOMI\n\n BP. 8962 - DOUALA - CAM
+	EROON\n\n (237) 99 99 63 23 & 33 02 13 05\n\n (237) 33 43 29 47\n\n lafomi
+	@yahoo.fr <mailto:lafomi@yahoo.fr>\n\nNUGEEC CAM\n\n BP. 15045 - YAOUNDE -
+	 CAMEROON\n\n (237) 22 20 10 60\n\n nugeec@yahoo.fr <mailto:nugeec@yahoo.f
+	r>\n\nSCAD\n\n BP. 5726 - DOUALA - CAMEROON\n\n (237) 33 42 95 00 & 75 86 
+	20 75\n\n (237) 33 42 95 00\n\n lasavane2005@yahoo.fr <mailto:lasavane2005
+	@yahoo.fr>\n\n
+DTEND;TZID="Romance Standard Time":20120803T180000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T173000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:CENTRALES DE COMPRAS?_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000375F99A1AED601000000000000000
+	010000000DB3620F050775544B72ADE7641094F6C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Times 
+	New Roman">03/08 MANDAMOS CATÁLOGO X EMAIL</FONT></SPAN></P>\n\n<P DIR=LT
+	R><SPAN LANG="es"><FONT FACE="Arial">&nbsp\;&lt\;<A HREF="http://en.wikipe
+	dia.org/wiki/Cameroon">http://en.wikipedia.org/wiki/Cameroon</A>&gt\;<B> 
+	</B></FONT><B><FONT COLOR="#000000" SIZE=5 FACE="Lucida Sans Unicode">came
+	roon</FONT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><B><F
+	ONT COLOR="#333333" SIZE=1 FACE="Lucida Sans Unicode">CENTRAL MERCHANDIZIN
+	GS</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A
+	1A1A" SIZE=1 FACE="Lucida Sans Unicode">APEX CAMCI</FONT></B></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE
+	="Lucida Sans Unicode">BP. 189 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lu
+	cida Sans Unicode">(237) 33 42 79 08</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unic
+	ode">(237) 33 42 71 93</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FO
+	NT FACE="Arial"> camci@camci-cm.com &lt\;<A HREF="mailto:camci@camci-cm.c
+	om">mailto:camci@camci-cm.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">AP
+	PRO &amp\; SERVICES</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 3670
+	 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT
+	 FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 02
+	 10 65</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	 </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 43 64 54</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> approserv@ya
+	hoo.fr &lt\;<A HREF="mailto:approserv@yahoo.fr">mailto:approserv@yahoo.fr<
+	/A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#
+	1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">ATRAX</FONT></B></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="L
+	ucida Sans Unicode">BP. 12760 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Luc
+	ida Sans Unicode">(237) 99 88 12 20</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unico
+	de">(237) 33 42 35 63</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FON
+	T FACE="Arial"> dbkith2002@yahoo.fr &lt\;<A HREF="mailto:dbkith2002@yahoo
+	.fr">mailto:dbkith2002@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">
+	CWT GR. FADOUL</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 4025 - DO
+	UALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 77 93 33 8
+	4</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </F
+	ONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 77 99 10 98</FONT></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> cwt_dla@yahoo.fr 
+	&lt\;<A HREF="mailto:cwt_dla@yahoo.fr">mailto:cwt_dla@yahoo.fr</A>&gt\;</F
+	ONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZ
+	E=1 FACE="Lucida Sans Unicode">I3C</FONT></B></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Un
+	icode">BONAPRISO - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unic
+	ode">(237) 97 82 85 29</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FO
+	NT FACE="Arial"> m.bekir@i3c.com.tn &lt\;<A HREF="mailto:m.bekir@i3c.com.
+	tn">mailto:m.bekir@i3c.com.tn</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><FONT FACE="Arial"> www.i3c.com.tn &lt\;<A HREF="http://www.
+	i3c.com.tn">http://www.i3c.com.tn</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR
+	><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode
+	">LAFOMI</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="A
+	rial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 8962 - DOUALA -
+	 CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Aria
+	l"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 99 99 63 23 &amp
+	\; 33 02 13 05</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE=
+	"Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 43 29 47
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> lafo
+	mi@yahoo.fr &lt\;<A HREF="mailto:lafomi@yahoo.fr">mailto:lafomi@yahoo.fr</
+	A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">NUGEEC CAM</FONT></B></SPAN></P>\
+	n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FAC
+	E="Lucida Sans Unicode">BP. 15045 - YAOUNDE - CAMEROON</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE
+	="Lucida Sans Unicode">(237) 22 20 10 60</FONT></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><FONT FACE="Arial"> nugeec@yahoo.fr &lt\;<A HREF="mailto:n
+	ugeec@yahoo.fr">mailto:nugeec@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DI
+	R=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Un
+	icode">SCAD</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 5726 - DOUAL
+	A - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="A
+	rial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 42 95 00 &
+	amp\; 75 86 20 75</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FA
+	CE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 42 95
+	 00</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> l
+	asavane2005@yahoo.fr &lt\;<A HREF="mailto:lasavane2005@yahoo.fr">mailto:la
+	savane2005@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:03/08 MANDAMOS CATÁLOGO X EMAIL\n\n <http://en.wikipedia.org/w
+	iki/Cameroon> cameroon\n\nGENERAL TRADE\n\nATF\n\n BP. 4731 - DOUALA - CAM
+	EROON\n\n (237) 99 57 56 36 & 77 05 42 72\n\n (237) 33 43 10 76\n\n atfcom
+	mercial@yahoo.fr <mailto:atfcommercial@yahoo.fr>\n\nCATRAC\n\n BP. 3380 - 
+	YAOUNDE - CAMEROON\n\n (237) 22 22 62 33\n\n (237) 22 22 62 33\n\nGLOMATE\
+	n\n AKWA - DOUALA - CAMEROON\n\n (237) 33 08 92 63 & 77 76 68 14\n\n (237)
+	 33 08 92 63\n\n glomate.sarl@yahoo.fr <mailto:glomate.sarl@yahoo.fr>\n\n 
+	www.glomate.be <http://www.glomate.be>\n\nGROUPE ARNO\n\n BP. 664 - DOUALA
+	 - CAMEROON\n\n (237) 33 42 04 28 & 33 42 25 57\n\n (237) 33 42 70 44\n\n 
+	ate@groupearno.com <mailto:ate@groupearno.com>\n\n www.groupearno.com <htt
+	p://www.groupearno.com>\n\nI3C\n\n BONAPRISO - DOUALA - CAMEROON\n\n (237)
+	 97 82 85 29\n\n m.bekir@i3c.com.tn <mailto:m.bekir@i3c.com.tn>\n\n www.i3
+	c.com.tn <http://www.i3c.com.tn>\n\nLAKOUL SERVICES\n\n BP. 2935 - DOUALA 
+	- CAMEROON\n\n (237) 75 27 10 57\n\n nganjumofopa@hotmail.fr <mailto:nganj
+	umofopa@hotmail.fr>\n\n
+DTEND;TZID="Romance Standard Time":20120803T180000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T173000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:COMERCIO IMPORT - EXPORT_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000007D6C99A1AED601000000000000000
+	010000000D5FB713ACF3B5E4F856EF6D342CAD000
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">03/08 MANDAMOS CATÁLOGO X EMAIL</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN 
+	LANG="es"><FONT FACE="Arial">&nbsp\;&lt\;<A HREF="http://en.wikipedia.org/
+	wiki/Cameroon">http://en.wikipedia.org/wiki/Cameroon</A>&gt\;<B> </B></FO
+	NT><B><FONT COLOR="#000000" SIZE=5 FACE="Lucida Sans Unicode">cameroon</FO
+	NT></B></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><B><FONT COLO
+	R="#333333" SIZE=1 FACE="Lucida Sans Unicode">GENERAL TRADE</FONT></B></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE
+	="Lucida Sans Unicode">ATF</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">B
+	P. 4731 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es
+	"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237
+	) 99 57 56 36 &amp\; 77 05 42 72</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode"
+	>(237) 33 43 10 76</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Arial"> atfcommercial@yahoo.fr &lt\;<A HREF="mailto:atfcommercial@ya
+	hoo.fr">mailto:atfcommercial@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Uni
+	code">CATRAC</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FAC
+	E="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 3380 - YAOU
+	NDE - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE=
+	"Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 22 22 62 33
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FO
+	NT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 22 22 62 33</FONT></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="L
+	ucida Sans Unicode">GLOMATE</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">
+	AKWA - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><
+	FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 3
+	3 08 92 63 &amp\; 77 76 68 14</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="
+	es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(2
+	37) 33 08 92 63</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial"> glomate.sarl@yahoo.fr &lt\;<A HREF="mailto:glomate.sarl@yahoo.f
+	r">mailto:glomate.sarl@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><FONT FACE="Arial"> www.glomate.be &lt\;<A HREF="http://ww
+	w.glomate.be">http://www.glomate.be</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=L
+	TR><SPAN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unico
+	de">GROUPE ARNO</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT 
+	FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BP. 664 - DO
+	UALA - CAMEROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 42 04 2
+	8 &amp\; 33 42 25 57</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT
+	 FACE="Arial"> </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 33 42
+	 70 44</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	 ate@groupearno.com &lt\;<A HREF="mailto:ate@groupearno.com">mailto:ate@g
+	roupearno.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FO
+	NT FACE="Arial"> www.groupearno.com &lt\;<A HREF="http://www.groupearno.c
+	om">http://www.groupearno.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="es"><B><FONT COLOR="#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">I3
+	C</FONT></B></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	 </FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">BONAPRISO - DOUALA - CAME
+	ROON</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> 
+	</FONT><FONT SIZE=1 FACE="Lucida Sans Unicode">(237) 97 82 85 29</FONT></S
+	PAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> m.bekir@i3c.co
+	m.tn &lt\;<A HREF="mailto:m.bekir@i3c.com.tn">mailto:m.bekir@i3c.com.tn</A
+	>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	 www.i3c.com.tn &lt\;<A HREF="http://www.i3c.com.tn">http://www.i3c.com.t
+	n</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR=
+	"#1A1A1A" SIZE=1 FACE="Lucida Sans Unicode">LAKOUL SERVICES</FONT></B></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SI
+	ZE=1 FACE="Lucida Sans Unicode">BP. 2935 - DOUALA - CAMEROON</FONT></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=
+	1 FACE="Lucida Sans Unicode">(237) 75 27 10 57</FONT></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="es"><FONT FACE="Arial"> nganjumofopa@hotmail.fr &lt\;<A 
+	HREF="mailto:nganjumofopa@hotmail.fr">mailto:nganjumofopa@hotmail.fr</A>&g
+	t\;</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:<http://www.stat.cm/downloads/liste_entreprise_2012_fr.pdf>\n\n
+	06/08 mandamos catálogo x email.\n\nAUTRES ACTIVITES DE SERVICES   \nN° 
+	     Raison sociale  Sigle   Ville   BP      TEL (+237)      FAX (+237)   
+	   Email   Site web       \n1       BOCOM RECYCLING SARL    DOUALA  9546 D
+	OUALA     33391616        33390914        0       0      \n2       EGEL ET
+	 LA GEPRESSE     DOUALA  7270 DOUALA     33433499        0       0       0
+	      \n3       ELEGANCE PRESSING       DOUALA  12695 DOUALA    33433527/3
+	3438501       33426028        0       0      \n4       ENTRETIEN ET NETTOY
+	AGE IMMOBILIER AU CAMEROUN   ENICAM  YAOUNDE 6149 YAOUNDE    22232902     
+	   0       0       0      \n5       GROUPEMENT PROFESSIONNEL DES ACCONIERS
+	 DU CAMEROUN      GPAC    DOUALA  73 DOUALA       33420599        33421131
+	        0       0      \n6       HYGIENE ET SALUBRITE DU CAMEROUN        H
+	YSACAM DOUALA  0       33374414        0       0       0      \n7       IB
+	EAC MAXI CLEAN SARL   IBEAC   DOUALA  15468 DOUALA    33373323/33376393   
+	    0       0       0      \n8       LE MESSAGER     DOUALA  5925 DOUALA  
+	   33420439        33425374        lemessager@lemessager.net <mailto:lemes
+	sager@lemessager.net>       www.lemessager.net <http://www.lemessager.net>
+	     \n9       MAJESTIC INDUSTRY GROUP MAJESTIC INDUSTRY GROUP DOUALA  123
+	76 DOUALA    0       0       0       0      \n10      MISTER CLEAN SARL   
+	    MISTER CLEAN    DOUALA  9 DOUALA        33429054        33431587      
+	  0       0      \n11      SERVICE CAMEROUNAIS D'ASSAINISSEMENT S.A       
+	 SE.CA S.A       DOUALA  2172 DOUALA     33376542        0       0       0
+	      \n12      SOCADIN LUC'S PRESSING SARL     YAOUNDE 12695 YAOUNDE   22
+	214904        0       0       0      \n13      SOCIETE CAMEROUNAISE DE REC
+	UCPERATION INDUSTRIELLE      SCRI SARL       DOUALA  5811 DOUALA     33394
+	283        33394284        0       0      \n14      SOUTH MEDIA CORPERATIO
+	N -SA     SMC-SA  YAOUNDE 12348 YAOUNDE   22225104        0       0       
+	0      \n15      STE CAMEROUNAISE DE DIVERTISSEMENT ET LOISIRS   SCDL-KATI
+	OS     YAOUNDE 0       22233471        22233471        0       0      \n16
+	      VILLE AEREE SARL        VILLE AEREE     YAOUNDE 1023 YAOUNDE    0   
+	    0       0       0      \n\n\nINDUSTRIES CHIMIQUES ET FABRICATION DE PR
+	ODUITS CHIMIQUES      \nN°      Raison sociale  Sigle   Ville   BP      T
+	EL (+237)      FAX (+237)      Email   Site web       \n1       ADER    AD
+	ER    DOUALA  2368 DOUALA     33399116/33398107       33391639        nden
+	gue_mole@adercam.com <mailto:ndengue_mole@adercam.com>        www.adercam.
+	com <http://www.adercam.com>\n2       BOCM SARL       DOUALA  5422 DOUALA 
+	    33393715        33393113        stebocam@yahoo.fr <mailto:stebocam@yah
+	oo.fr>       0      \n3       CHELCOM CAMEROUN SA     CHELCOM SA      DOUA
+	LA  7197 DOUALA     33407200/33372353       33375906        chelcom.sa@hot
+	 <mailto:chelcom.sa@hot> mail.com www.chelcom.sa.com <http://www.chelcom.s
+	a.com>     \n4       CHIMIE UNIVERSELLE INDUSTRIES SARL      CUI     DOUAL
+	A  12831 DOUALA    33427579        33427579        chimieuniverselleindust
+	ries@yahoo.fr <mailto:chimieuniverselleindustries@yahoo.fr>    0      \n5 
+	      COLGATE PALMOLIVE       CP      DOUALA  1083 DOUALA     33422885/334
+	26420       33423773        martine_bibai@colpal.com <mailto:martine_bibai
+	@colpal.com>        0      \n6       COMPAGNIE EQUATORIALE DE PEINTURES   
+	   CEP     DOUALA  1028 DOUALA     33372983/33376988       33378898       
+	 cep@ppg.cm <mailto:cep@ppg.cm>      0      \n7       COMPLEXE CHIMIQUE CA
+	MEROUNAIS   CCC     DOUALA  7004 DOUALA     99912064        33370777      
+	  0       0      \n8       COMPLEXE CHIMIQUE INDUSTRIEL DU CAMEROUN       
+	 CCIC S.A        DOUALA  378 DOUALA      33433699        33433699        0
+	       0      \n\n\n
+DTEND;TZID="Romance Standard Time":20120803T190000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120803T183000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:listado
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000997B99A1AED601000000000000000
+	01000000039E1B90EA032044EA3AD2D5957C2D2E9
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>&lt\;<A HREF="http://www.stat.cm/downloads/liste_entreprise_2012_fr.pdf">
+	http://www.stat.cm/downloads/liste_entreprise_2012_fr.pdf</A>&gt\;</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">06/08 mandam
+	os catálogo x email.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><
+	FONT COLOR="#000000" SIZE=4 FACE="Cambria">AUTRES ACTIVITES DE SERVICES</F
+	ONT></B><FONT FACE="Arial">   <BR>\n</FONT><FONT COLOR="#000000" SIZE=1
+	 FACE="Cambria">N°     </FONT><B></B><B></B><B><FONT FACE="Arial"></
+	FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">Raison sociale</FONT></B
+	><FONT FACE="Arial"> </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#0
+	00000" SIZE=1 FACE="Cambria">Sigle</FONT></B><FONT FACE="Arial">  </FONT
+	><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria"
+	>Ville</FONT></B><FONT FACE="Arial">  </FONT><B><FONT FACE="Arial"></FON
+	T> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">BP</FONT></B><FONT FACE="Ar
+	ial">     </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" S
+	IZE=1 FACE="Cambria">TEL (+237)</FONT></B><FONT FACE="Arial">     </F
+	ONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambr
+	ia">FAX (+237)</FONT></B><FONT FACE="Arial">     </FONT><B><FONT FACE
+	="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">Email</FONT><
+	/B><FONT FACE="Arial">  </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR
+	="#000000" SIZE=1 FACE="Cambria">Site web</FONT></B><FONT FACE="Arial"> 
+	      <BR>\n</FONT><FONT COLOR="#000000" SIZE=1 FACE="Calibri">1  
+	     BOCOM RECYCLING SARL    DOUALA  9546 DOUALA     33391616 
+	       33390914        0       0      </FONT><BR>
+	\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">2       EGEL ET LA GEP
+	RESSE     DOUALA  7270 DOUALA     33433499        0   
+	    0       0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=
+	1 FACE="Calibri">3       ELEGANCE PRESSING       DOUALA  12695
+	 DOUALA    33433527/33438501       33426028        0   
+	    0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibr
+	i">4      </FONT><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SI
+	ZE=1 FACE="Calibri">ENTRETIEN ET NETTOYAGE IMMOBILIER AU CAMEROUN  </FON
+	T><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">E
+	NICAM  YAOUNDE 6149 YAOUNDE    22232902        0       0
+	       0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="
+	Calibri">5      </FONT><FONT FACE="Arial"></FONT> <FONT COLOR="#0000
+	00" SIZE=1 FACE="Calibri">GROUPEMENT PROFESSIONNEL DES ACCONIERS DU CAMERO
+	UN     </FONT><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1
+	 FACE="Calibri">GPAC    DOUALA  73 DOUALA       33420599    
+	    33421131        0       0      </FONT><BR>\n<FON
+	T COLOR="#000000" SIZE=1 FACE="Calibri">6       HYGIENE ET SALUBRITE
+	 DU CAMEROUN        HYSACAM DOUALA  0       33374414    
+	    0       0       0      </FONT><BR>\n<FONT COLOR="
+	#000000" SIZE=1 FACE="Calibri">7       IBEAC MAXI CLEAN SARL   IBE
+	AC   DOUALA  15468 DOUALA    33373323/33376393       0    
+	   0       0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 
+	FACE="Calibri">8       LE MESSAGER     DOUALA  5925 DOUALA  
+	   33420439        33425374       </FONT><FONT FACE="Arial
+	"> lemessager@lemessager.net &lt\;<A HREF="mailto:lemessager@lemessager.ne
+	t">mailto:lemessager@lemessager.net</A>&gt\;       www.lemessager.ne
+	t &lt\;<A HREF="http://www.lemessager.net">http://www.lemessager.net</A>&g
+	t\;     <BR>\n</FONT><FONT COLOR="#000000" SIZE=1 FACE="Calibri">9 
+	      MAJESTIC INDUSTRY GROUP MAJESTIC INDUSTRY GROUP DOUALA  12376 
+	DOUALA    0       0       0       0      </FONT
+	><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">10      MISTER CLE
+	AN SARL       MISTER CLEAN    DOUALA  9 DOUALA        334
+	29054        33431587        0       0      </FO
+	NT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">11     </FONT><F
+	ONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">SERVI
+	CE CAMEROUNAIS D'ASSAINISSEMENT S.A       </FONT><FONT FACE="Arial"
+	></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">SE.CA S.A      
+	 DOUALA  2172 DOUALA     33376542        0       0   
+	    0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibr
+	i">12      SOCADIN LUC'S PRESSING SARL     YAOUNDE 12695 YAOUNDE 
+	  22214904        0       0       0      </FONT>
+	<BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">13      SOCIETE CAM
+	EROUNAISE DE RECUCPERATION INDUSTRIELLE      SCRI SARL       DO
+	UALA  5811 DOUALA     33394283        33394284        0
+	       0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="
+	Calibri">14      SOUTH MEDIA CORPERATION -SA     SMC-SA  YAOUNDE 
+	12348 YAOUNDE   22225104        0       0       0  
+	    </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">15   
+	  </FONT><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="C
+	alibri">STE CAMEROUNAISE DE DIVERTISSEMENT ET LOISIRS  </FONT><FONT FACE
+	="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">SCDL-KATIOS 
+	    YAOUNDE 0       22233471        22233471       
+	 0       0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE
+	="Calibri">16      VILLE AEREE SARL        VILLE AEREE     Y
+	AOUNDE 1023 YAOUNDE    0       0       0       0   
+	   </FONT><BR>\n</SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLO
+	R="#000000" SIZE=4 FACE="Cambria">INDUSTRIES CHIMIQUES ET FABRICATION DE P
+	RODUITS CHIMIQUES</FONT></B><FONT FACE="Arial">      <BR>\n</FONT><F
+	ONT COLOR="#000000" SIZE=1 FACE="Cambria">N°     </FONT><B></B><B></
+	B><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria
+	">Raison sociale</FONT></B><FONT FACE="Arial"> </FONT><B><FONT FACE="Aria
+	l"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">Sigle</FONT></B><FO
+	NT FACE="Arial">  </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000
+	000" SIZE=1 FACE="Cambria">Ville</FONT></B><FONT FACE="Arial">  </FONT><
+	B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">B
+	P</FONT></B><FONT FACE="Arial">     </FONT><B><FONT FACE="Arial"></FON
+	T> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">TEL (+237)</FONT></B><FONT 
+	FACE="Arial">     </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#
+	000000" SIZE=1 FACE="Cambria">FAX (+237)</FONT></B><FONT FACE="Arial">  
+	   </FONT><B><FONT FACE="Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FA
+	CE="Cambria">Email</FONT></B><FONT FACE="Arial">  </FONT><B><FONT FACE="
+	Arial"></FONT> <FONT COLOR="#000000" SIZE=1 FACE="Cambria">Site web</FONT>
+	</B><FONT FACE="Arial">       <BR>\n</FONT><FONT COLOR="#000000" SI
+	ZE=1 FACE="Calibri">1       ADER    ADER    DOUALA  2368 DOUA
+	LA     33399116/33398107       33391639       </FONT><FON
+	T FACE="Arial"> ndengue_mole@adercam.com &lt\;<A HREF="mailto:ndengue_mole
+	@adercam.com">mailto:ndengue_mole@adercam.com</A>&gt\;        www.a
+	dercam.com &lt\;<A HREF="http://www.adercam.com">http://www.adercam.com</A
+	>&gt\;<BR>\n</FONT><FONT COLOR="#000000" SIZE=1 FACE="Calibri">2     
+	  BOCM SARL       DOUALA  5422 DOUALA     33393715      
+	  33393113       </FONT><FONT FACE="Arial"> stebocam@yahoo.fr &lt\
+	;<A HREF="mailto:stebocam@yahoo.fr">mailto:stebocam@yahoo.fr</A>&gt\;  
+	    </FONT> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">0      <
+	/FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FACE="Calibri">3       CHEL
+	COM CAMEROUN SA     CHELCOM SA      DOUALA  7197 DOUALA     
+	33407200/33372353       33375906       </FONT><FONT FACE="Ari
+	al"> chelcom.sa@hot &lt\;<A HREF="mailto:chelcom.sa@hot">mailto:chelcom.sa
+	@hot</A>&gt\;</FONT><FONT COLOR="#000000" SIZE=1 FACE="Calibri"> mail.com<
+	/FONT><FONT FACE="Arial"> www.chelcom.sa.com &lt\;<A HREF="http://www.chel
+	com.sa.com">http://www.chelcom.sa.com</A>&gt\;     <BR>\n</FONT><FONT
+	 COLOR="#000000" SIZE=1 FACE="Calibri">4       CHIMIE UNIVERSELLE IN
+	DUSTRIES SARL      CUI     DOUALA  12831 DOUALA    33427579 
+	       33427579       </FONT><FONT FACE="Arial"> chimieuniver
+	selleindustries@yahoo.fr &lt\;<A HREF="mailto:chimieuniverselleindustries@
+	yahoo.fr">mailto:chimieuniverselleindustries@yahoo.fr</A>&gt\;   </FONT
+	> <FONT COLOR="#000000" SIZE=1 FACE="Calibri">0      </FONT><BR>\n<F
+	ONT COLOR="#000000" SIZE=1 FACE="Calibri">5       COLGATE PALMOLIVE
+	       CP      DOUALA  1083 DOUALA     33422885/33426420 
+	      33423773       </FONT><FONT FACE="Arial"> martine_bibai@
+	colpal.com &lt\;<A HREF="mailto:martine_bibai@colpal.com">mailto:martine_b
+	ibai@colpal.com</A>&gt\;       </FONT> <FONT COLOR="#000000" SIZE=1
+	 FACE="Calibri">0      </FONT><BR>\n<FONT COLOR="#000000" SIZE=1 FAC
+	E="Calibri">6       COMPAGNIE EQUATORIALE DE PEINTURES      CEP
+	     DOUALA  1028 DOUALA     33372983/33376988       333788
+	98       </FONT><FONT FACE="Arial"> cep@ppg.cm &lt\;<A HREF="mailto
+	:cep@ppg.cm">mailto:cep@ppg.cm</A>&gt\;     </FONT> <FONT COLOR="#000
+	000" SIZE=1 FACE="Calibri">0      </FONT><BR>\n<FONT COLOR="#000000"
+	 SIZE=1 FACE="Calibri">7       COMPLEXE CHIMIQUE CAMEROUNAIS   CCC
+	     DOUALA  7004 DOUALA     99912064        33370777  
+	      0       0      </FONT><BR>\n<FONT COLOR="#000000" S
+	IZE=1 FACE="Calibri">8       COMPLEXE CHIMIQUE INDUSTRIEL DU CAMEROU
+	N        CCIC S.A        DOUALA  378 DOUALA      33433
+	699        33433699        0       0      </FONT>
+	<BR>\n</SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:Enicam81@yahoo.fr <mailto:Enicam81@yahoo.fr>\n\n+23722232902\n\
+	nEmpresa de limpieza\n\nngehgeorge@yahoo.com <mailto:ngehgeorge@yahoo.com>
+	\n\nGeorge Ngeh fondzenyuy\n\n06/08 ENVIAMOS CATÁLOGO\n\nDe: George Ngeh 
+	fondzenyuy [mailto:ngehgeorge@yahoo.com] <mailto:[mailto:ngehgeorge@yahoo.
+	com]>\nEnviado el: martes\, 07 de agosto de 2012 11:58\nPara: comercial@te
+	xtilespongal.com <mailto:comercial@textilespongal.com>\nAsunto: Re: Fw : P
+	ONGAL\n\nI read with delight the proposals you made to Enicam as far as cl
+	eaning products are concerned\, I would like to propose that I could be yo
+	ur sole distributor in Cameroon and even possibly the sub region provided 
+	we strike a good deal. In fact i am called George Ngeh and have been in th
+	e cleaning business for 21 years \, I buy and distribute products in our d
+	ifferent cleaning sites on monthly basis and enjoy quite a good knowledge 
+	of the market. I am perfectly bilingual and posses good communication skil
+	ls. If you are interested in this offer \, either reply through this mediu
+	m or call me on 237 77 88 38 48. Accept my best regards.George.\n\nOur com
+	pany is called Enicam. Its doors were opened in 1981\, first as a cleaning
+	 company and after that diversified its activities into building and renov
+	ations. Presently\, we have about ten cleaning contracts and employ about 
+	eighty persons.\n\n\n
+DTEND;TZID="Romance Standard Time":20120806T120000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120806T113000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:ENICAM ENTRETIEN ET NETTOYAGE CAMEROUN_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000178A99A1AED601000000000000000
+	010000000E8002241869D4C488962A3234761C10D
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"
+	>Enicam81@yahoo.fr &lt\;<A HREF="mailto:Enicam81@yahoo.fr">mailto:Enicam81
+	@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT F
+	ACE="Calibri">+23722232902</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"
+	><FONT FACE="Calibri">Empresa de limpieza</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT FACE="Arial">ngehgeorge@yahoo.com &lt\;<A HREF="mail
+	to:ngehgeorge@yahoo.com">mailto:ngehgeorge@yahoo.com</A>&gt\;</FONT></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=2 FACE="Tahoma">George Ngeh
+	 fondzenyuy</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Ca
+	libri">06/08 ENVIAMOS CATÁLOGO</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><B><FONT SIZE=2 FACE="Tahoma">De:</FONT></B><FONT SIZE=2 FACE="Tahom
+	a"> George Ngeh fondzenyuy</FONT><FONT FACE="Arial"> [<A HREF="mailto:ngeh
+	george@yahoo.com">mailto:ngehgeorge@yahoo.com</A>] &lt\;<A HREF="mailto:[m
+	ailto:ngehgeorge@yahoo.com]">mailto:[mailto:ngehgeorge@yahoo.com]</A>&gt\;
+	</FONT><BR>\n<B></B><B><FONT SIZE=2 FACE="Tahoma">Enviado el:</FONT></B><F
+	ONT SIZE=2 FACE="Tahoma"> martes\, 07 de agosto de 2012 11:58<BR>\n</FONT>
+	<B><FONT SIZE=2 FACE="Tahoma">Para:</FONT></B><FONT FACE="Arial"></FONT> <
+	FONT FACE="Arial">comercial@textilespongal.com &lt\;<A HREF="mailto:comerc
+	ial@textilespongal.com">mailto:comercial@textilespongal.com</A>&gt\;<BR>\n
+	</FONT><B></B><B><FONT SIZE=2 FACE="Tahoma">Asunto:</FONT></B><FONT SIZE=2
+	 FACE="Tahoma"> Re: Fw : PONGAL</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="es"><FONT FACE="Calibri">I read with delight the proposals you made to E
+	nicam as far as cleaning products are concerned\, I would like to propose 
+	that I could be your sole distributor in Cameroon and even possibly the su
+	b region provided we strike a good deal. In fact i am called George Ngeh a
+	nd have been in the cleaning business for 21 years \, I buy and distribute
+	 products in our different cleaning sites on monthly basis and enjoy quite
+	 a good knowledge of the market. I am perfectly bilingual and posses good 
+	communication skills. If you are interested in this offer \, either reply 
+	through this medium or call me on 237 77 88 38 48. Accept my best regards.
+	George.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">Our company is called Enicam. Its doors were opened in 1981\, first as 
+	a cleaning company and after that diversified its activities into building
+	 and renovations. Presently\, we have about ten cleaning contracts and emp
+	loy about eighty persons.<BR>\n</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:LA CORBEILLE\n\n BP. 11231 - YAOUNDE - CAMEROON\n\n (237) 22 31
+	 61 71 & 99 24 51 62\n\nSupermercado\n\nMme. Charle\n\nSimbhar60@yahoo.fr 
+	<mailto:Simbhar60@yahoo.fr>\n\nSimchar60@yahoo.fr <mailto:Simchar60@yahoo.
+	fr>\n\n08/08 mandamos catálogo.\n\n04/09 reenviamos\n\n
+DTEND;TZID="Romance Standard Time":20120926T130000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120926T123000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:LA CORBEILLE_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000559B99A1AED601000000000000000
+	010000000F59BF44EE42EAE47AF34D51962BF3989
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">LA CORBEILLE</FONT></B></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 F
+	ACE="Lucida Sans Unicode">BP. 11231 - YAOUNDE - CAMEROON</FONT></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="es"><STRIKE><FONT FACE="Arial"> </FONT><FONT S
+	IZE=1 FACE="Lucida Sans Unicode">(237) 22 31 61 71</FONT></STRIKE><FONT SI
+	ZE=1 FACE="Lucida Sans Unicode"> &amp\; 99 24 51 62</FONT></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">Supermercado</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">Mme. Charle</FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">Simbhar60@yaho
+	o.fr &lt\;<A HREF="mailto:Simbhar60@yahoo.fr">mailto:Simbhar60@yahoo.fr</A
+	>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">
+	Simchar60@yahoo.fr &lt\;<A HREF="mailto:Simchar60@yahoo.fr">mailto:Simchar
+	60@yahoo.fr</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT
+	 FACE="Calibri">08/08 mandamos catálogo.</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT FACE="Calibri">04/09 reenviamos</FONT></SPAN></P>\n\
+	n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:LEADER PRICE\n\n BP. 1171 - DOUALA - CAMEROON\n\n (237) 33 42 3
+	7 60\n\n+23733422039\n\nsodiacam@sodiacam.net <mailto:sodiacam@sodiacam.ne
+	t>\n\nSupermercados. Productos de mantenimiento y limpieza. Abasteciemient
+	o de mayoristas y colectividades.\n\nMr. Fotio\n\n06/08 enviamos catálogo
+	 x email. No recibido\n\n08/08 tiene problemas con su IP. Reenvia la seman
+	a Próxima.\n\n04/09 reenviamos.\n\n24/02/14 mandamos catálogo 2014\n\n
+DTEND;TZID="Romance Standard Time":20140226T110000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20140226T103000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:LEADER PRICE - SODIACAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000082AB99A1AED601000000000000000
+	010000000C0B5964486D1374AA36A95E168BBFCA4
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">LEADER PRICE</FONT></B></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 F
+	ACE="Lucida Sans Unicode">BP. 1171 - DOUALA - CAMEROON</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><STRIKE><FONT FACE="Arial"> </FONT><FONT SIZ
+	E=1 FACE="Lucida Sans Unicode">(237) 33 42 37 60</FONT></STRIKE></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Lucida Sans Unicode">+2
+	3733422039</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Ari
+	al">sodiacam@sodiacam.net &lt\;<A HREF="mailto:sodiacam@sodiacam.net">mail
+	to:sodiacam@sodiacam.net</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LA
+	NG="es"><FONT FACE="Calibri">Supermercados. Productos de mantenimiento y l
+	impieza. Abasteciemiento de mayoristas y colectividades.</FONT></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">Mr. Fotio</FONT></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">06/08 enviamos ca
+	tálogo x email. No recibido</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><FONT FACE="Calibri">08/08 tiene problemas con su IP. Reenvia la semana
+	 Próxima.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Cal
+	ibri">04/09 reenviamos.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT FACE="Calibri">24/02/14 mandamos catálogo 2014</FONT></SPAN></P>\n\n<
+	/BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:MAHIMA\n\n BP. 15430 - DOUALA - CAMEROON\n\n (237) 33 43 44 87 
+	& 77 50 06 48\n\n+237 77117870\n\nmse@stemahima.com <mailto:mse@stemahima.
+	com>\n\nMr. Harish\n\n06/08/12 mandamos catálogo.\n\nSté Mahima SARL <ht
+	tp://www.cameroonphonebook.com/details/es/yellow/Cammeroun/SUPERMARCHE/cam
+	meroun_88559/St%C3%A9+Mahima+SARL> \n\nactividad : Supermarchés\n\nAvenue
+	 Ahmadou Ahidjo\, BP 15430\n\nCiudad : Douala\n\nPaís : Camerùn\n\n+237 
+	33 43 44 87\n\nCompras +237 33426182  (engl)\n\nMr. Manis\n\ncontact@stema
+	hima.com <mailto:contact@stemahima.com>\n\n03/08 mandamos catálogo.\n\n07
+	/08 no les interesa. Se proveen del mercado local.\n\n
+DTEND;TZID="Romance Standard Time":20120806T130000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120806T123000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:MAHIMA_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000DEB799A1AED601000000000000000
+	010000000125905E1095DB04E8732038E3F11283E
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">MAHIMA</FONT></B></SPAN></P>\n\n<
+	P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="L
+	ucida Sans Unicode">BP. 15430 - DOUALA - CAMEROON</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE="Luc
+	ida Sans Unicode">(237) 33 43 44 87 &amp\; 77 50 06 48</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">+237 77117870</FONT></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial">mse@stemahima.com
+	 &lt\;<A HREF="mailto:mse@stemahima.com">mailto:mse@stemahima.com</A>&gt\;
+	</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">Mr. 
+	Harish</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri
+	">06/08/12 mandamos catálogo.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"es"><FONT FACE="Arial">Sté Mahima SARL &lt\;<A HREF="http://www.cameroon
+	phonebook.com/details/es/yellow/Cammeroun/SUPERMARCHE/cammeroun_88559/St%C
+	3%A9+Mahima+SARL">http://www.cameroonphonebook.com/details/es/yellow/Camme
+	roun/SUPERMARCHE/cammeroun_88559/St%C3%A9+Mahima+SARL</A>&gt\;</FONT><B><F
+	ONT FACE="Arial"></FONT></B> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FO
+	NT SIZE=1 FACE="Arial">actividad : Supermarchés</FONT></SPAN></P>\n\n<P D
+	IR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Avenue Ahmadou Ahidjo\, B
+	P 15430</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE=
+	"Arial">Ciudad : Douala</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><F
+	ONT SIZE=1 FACE="Arial">País : Camerùn</FONT></SPAN></P>\n\n<P DIR=LTR><
+	SPAN LANG="es"><FONT SIZE=1 FACE="Arial">+237</FONT><FONT FACE="Arial"> </
+	FONT><FONT SIZE=1 FACE="Arial">33 43 44 87</FONT></SPAN></P>\n\n<P DIR=LTR
+	><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">Compras +237 33426182  (engl)<
+	/FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">
+	Mr. Manis</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Aria
+	l">contact@stemahima.com &lt\;<A HREF="mailto:contact@stemahima.com">mailt
+	o:contact@stemahima.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="es"><FONT SIZE=1 FACE="Arial">03/08 mandamos catálogo.</FONT></SPAN></
+	P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Arial">07/08 no les in
+	teresa. Se proveen del mercado local.</FONT></SPAN></P>\n\n</BODY>\n</HTML
+	>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:SMS CAMEROUN\n\n BP. 3825 - DOUALA - CAMEROON\n\n (237) 33 41 3
+	7 07 & 75 67 98 54\n\n (237) 33 41 37 08\n\n sms_cameroun@yahoo.fr <mailto
+	:sms_cameroun@yahoo.fr>\n\nMr. Vraimen Onana\n\nServicios de limpieza.\n\n
+	03/08 MANDAMOS CATÁLOGO. Recibido.\n\n08/08 llamar mañana.\n\n
+DTEND;TZID="Romance Standard Time":20120809T163000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120809T160000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:SMS CAMEROUN
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000DBC299A1AED601000000000000000
+	01000000006F3C881E2CDE04BAE7B7B15622C575E
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT COLOR="#1
+	A1A1A" SIZE=1 FACE="Lucida Sans Unicode">SMS CAMEROUN</FONT></B></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 F
+	ACE="Lucida Sans Unicode">BP. 3825 - DOUALA - CAMEROON</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1 FACE
+	="Lucida Sans Unicode">(237) 33 41 37 07 &amp\; 75 67 98 54</FONT></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Arial"> </FONT><FONT SIZE=1
+	 FACE="Lucida Sans Unicode">(237) 33 41 37 08</FONT></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="es"><FONT FACE="Arial"> sms_cameroun@yahoo.fr &lt\;<A HRE
+	F="mailto:sms_cameroun@yahoo.fr">mailto:sms_cameroun@yahoo.fr</A>&gt\;</FO
+	NT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT SIZE=1 FACE="Lucida San
+	s Unicode">Mr. Vraimen Onana</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="e
+	s"><FONT FACE="Calibri">Servicios de limpieza.</FONT></SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="es"><FONT FACE="Calibri">03/08 MANDAMOS CATÁLOGO. Recibi
+	do.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">0
+	8/08 llamar mañana.</FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:+23771337014\n\ntafoucamsarl@yahoo.com <mailto:tafoucamsarl@yah
+	oo.com>\n\nrecibimos sms con email.\n\n05/08 mandamos catálogo.\n\n04/09\
+	n\nDear Mr. Kamling\, \n\nAccording to the specifications given by Mr. Taf
+	ou\, in the following lines we gave you our best offer for the products an
+	s quantities you have selected.\n\n Ref.   Desc.   Price exwks    \n310510
+	  Contender BLUE with tilt lid 120  lts.  46\,424 \n310511  Contender RED 
+	with tilt lid 120  lts.   46\,424 \n310512  Contender GREEN with tilt lid 
+	120  lts. 46\,424 \n310513  Contender YELLOW with tilt lid 120  lts.      
+	  46\,424 \n410202  Dust picker bascule + broom     8\,31   \n\n\nWe have 
+	recieved the qouations as i told you it is a contract project going on in 
+	the region and other bidders have submmited thier products qoutations so w
+	e shal review  all that and get back to you ones they approved the qoutati
+	ons\n\nBest Regards\n\nTafou Jack\n\n\n\n
+DTEND;TZID="Romance Standard Time":20120815T110000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20120815T103000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:TAFOU_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000000040D499A1AED601000000000000000
+	0100000007B7D2941CD63F14CA0F4AFC92E8FC7EB
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibr
+	i">+23771337014</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE
+	="Arial">tafoucamsarl@yahoo.com &lt\;<A HREF="mailto:tafoucamsarl@yahoo.co
+	m">mailto:tafoucamsarl@yahoo.com</A>&gt\;</FONT></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="es"><FONT FACE="Calibri">recibimos sms con email.</FONT></SPAN
+	></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">05/08 mandamos ca
+	tálogo.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calib
+	ri">04/09</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#1F
+	497D" FACE="Calibri">Dear Mr. Kamling\,</FONT><FONT FACE="Arial"> </FONT><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#1F497D" FACE="Calib
+	ri">According to the specifications given by Mr. Tafou\, in the following 
+	lines we gave you our best offer for the products ans quantities you have 
+	selected.</FONT></SPAN></P>\n\n<P DIR=LTR ALIGN=RIGHT><SPAN LANG="es"><FON
+	T COLOR="#1F497D" FACE="Calibri"> </FONT><FONT SIZE=2 FACE="Arial">Ref.</
+	FONT><FONT FACE="Arial">   </FONT><FONT SIZE=2 FACE="Arial">Desc.</FONT>
+	<FONT FACE="Arial">  </FONT> <FONT COLOR="#1F497D" FACE="Calibri">Price 
+	exwks</FONT><FONT FACE="Arial">    <BR>\n</FONT><FONT SIZE=2 FACE="Ari
+	al">310510</FONT><FONT FACE="Arial">  </FONT><FONT SIZE=2 FACE="Arial">Co
+	ntender BLUE with tilt lid 120  lts.</FONT><FONT FACE="Arial"> </FONT> <
+	FONT COLOR="#1F497D" FACE="Calibri">46\,424</FONT><FONT FACE="Arial"> <BR
+	>\n</FONT><FONT SIZE=2 FACE="Arial">310511</FONT><FONT FACE="Arial">  </F
+	ONT><FONT SIZE=2 FACE="Arial">Contender RED with tilt lid 120  lts.</FONT
+	><FONT FACE="Arial">  </FONT> <FONT COLOR="#1F497D" FACE="Calibri">46\,4
+	24</FONT><FONT FACE="Arial"> <BR>\n</FONT><FONT SIZE=2 FACE="Arial">31051
+	2</FONT><FONT FACE="Arial">  </FONT><FONT SIZE=2 FACE="Arial">Contender G
+	REEN with tilt lid 120  lts.</FONT><FONT FACE="Arial"></FONT> <FONT COLOR
+	="#1F497D" FACE="Calibri">46\,424</FONT><FONT FACE="Arial"> <BR>\n</FONT>
+	<FONT SIZE=2 FACE="Arial">310513</FONT><FONT FACE="Arial">  </FONT><FONT 
+	SIZE=2 FACE="Arial">Contender YELLOW with tilt lid 120  lts.</FONT><FONT 
+	FACE="Arial">       </FONT> <FONT COLOR="#1F497D" FACE="Calibri">46
+	\,424</FONT><FONT FACE="Arial"> <BR>\n</FONT><FONT SIZE=2 FACE="Arial">41
+	0202</FONT><FONT FACE="Arial">  </FONT><FONT SIZE=2 FACE="Arial">Dust pic
+	ker bascule + broom</FONT><FONT FACE="Arial">    </FONT> <FONT COLOR="
+	#1F497D" FACE="Calibri">8\,31</FONT><FONT FACE="Arial">   <BR>\n</FONT>
+	</SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT FACE="Calibri">We have rec
+	ieved the qouations as i told you it is a contract project going on in the
+	 region and other bidders have submmited thier products qoutations so we s
+	hal review  all that and get back to you ones they approved the qoutation
+	s<BR>\n<BR>\nBest Regards<BR>\n<BR>\nTafou Jack<BR>\n<BR>\n</FONT></SPAN><
+	/P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20180111T180914Z
+DESCRIPTION:De: Stephane Fandom [<mailto:camerounfuture@yahoo.fr>]\nEnviado
+	 el: viernes\, 28 de septiembre de 2012 23:15\nPara: Pongal_Luis.Pont\nAsu
+	nto: Re: PONGAL: NETTOYAGE\n\nMr.\n\nWe are a company of service delivery 
+	that has for main activities industrial cleaning\, sanitation\, pest treat
+	ment\, placement of cleaning agents and sale of nettoyage.c products ' is 
+	to her that we ask for a partnership to represent your product in our coun
+	try for the commercialisation.nous range have currently need of a European
+	 company that can make us confidence by giving us to market its products h
+	as our old or new customers.\n\n01/10 Mandamos precios FOB\n\n
+DTEND;TZID="Romance Standard Time":20121001T100000
+DTSTAMP:20221214T090730Z
+DTSTART;TZID="Romance Standard Time":20121001T093000
+LAST-MODIFIED:20201030T084654Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es:STEPHANE FANDOM_CAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000EEDE99A1AED601000000000000000
+	010000000CB20DC62F121224991608DF8815F1D6B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.15726.20118">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="es"><B><FONT SIZE=2 FA
+	CE="Tahoma">De:</FONT></B><FONT SIZE=2 FACE="Tahoma"> Stephane Fandom [<U>
+	</U></FONT><U><FONT COLOR="#0000FF" SIZE=2 FACE="Tahoma">&lt\;<A HREF="mai
+	lto:camerounfuture@yahoo.fr">mailto:camerounfuture@yahoo.fr</A>&gt\;</FONT
+	></U><FONT SIZE=2 FACE="Tahoma">]<BR>\n</FONT><B><FONT SIZE=2 FACE="Tahoma
+	">Enviado el:</FONT></B><FONT SIZE=2 FACE="Tahoma"> viernes\, 28 de septie
+	mbre de 2012 23:15<BR>\n</FONT><B><FONT SIZE=2 FACE="Tahoma">Para:</FONT><
+	/B><FONT SIZE=2 FACE="Tahoma"> Pongal_Luis.Pont<BR>\n</FONT><B><FONT SIZE=
+	2 FACE="Tahoma">Asunto:</FONT></B><FONT SIZE=2 FACE="Tahoma"> Re: PONGAL: 
+	NETTOYAGE</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="es"><FONT COLOR="#00
+	0000" SIZE=2 FACE="Arial">Mr.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="
+	es"><FONT COLOR="#000000" SIZE=2 FACE="Arial">We are a company of service 
+	delivery that has for main activities industrial cleaning\, sanitation\, p
+	est treatment\, placement of cleaning agents and sale of nettoyage.c produ
+	cts ' is to her that we ask for a partnership to represent your product in
+	 our country for the commercialisation.nous range have currently need of a
+	 European company that can make us confidence by giving us to market its p
+	roducts has our old or new customers.</FONT></SPAN></P>\n\n<P DIR=LTR><SPA
+	N LANG="es"><FONT FACE="Calibri">01/10 Mandamos precios FOB</FONT></SPAN><
+	/P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
